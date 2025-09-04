@@ -21,7 +21,7 @@ Many mechanics throughout this rulebook will call for "rolling +Career" which in
 - Law Enforcer/Civil Servant/Justice Worker
 - Pirate/Criminal/Mercenary
 - Prisoner/Convict
-- Prostitue/Sex Worker
+- Prostitute/Sex Worker
 - Scholar/Academic
 - Scientist/Specialist
 - Soldier/Warrior
