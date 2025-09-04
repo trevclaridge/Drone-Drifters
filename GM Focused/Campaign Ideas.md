@@ -3,16 +3,18 @@
 ## Intro
 
 Start with a great pilgrimage. All humans in the galaxy return to Earth for a holiday that only happens once every 100 years. It is meant to remind humanity of its modest beginnings, as well as a lesson against inter-human conflict, as Earth is...
-	-  a barren waste land, destroyed by humanity in their ceaseless wars. The remaining humans are descendants of those that escaped Earth during man's greatest and last war.
-	- a green paradise. Humanity uses Earth as a sort of monument and on-going project, returning her to nature through utopian collaboration. With human conflicts ceased, Earth is able to heal herself, marking her as a symbol of the futility of war.
-	- A mix of the above two options. One half of Earth is restored to her former idyllic glory through great effort, while the other half is left alone, barring her deep and unhealing scars of humanity's violent past. The symbol is the same, shown this time in clear visual contrast.
 
-- While humanity is gathered, remembering their history and celebrating their achievements, Earth is destroyed before their collective eyes. Chaos follows.
-	- Humanity splinters and flees into the galaxy, all thoughts of unity lost to the embers.
-		- They flee back to their home worlds and stations, hoping to protect them from any additional destruction. (This should be the players first priority.)
-	- Alien nations are involuntarily involved as blame is thrown and old grudges are brought back for interstellar witch-hunting.
-	- Rumors of war brew, while motives and perpetrator remain unclear.
-	- Signs of a greater threat.
+- a barren waste land, destroyed by humanity in their ceaseless wars. The remaining humans are descendants of those that escaped Earth during man's greatest and last war.
+- a green paradise. Humanity uses Earth as a sort of monument and on-going project, returning her to nature through utopian collaboration. With human conflicts ceased, Earth is able to heal herself, marking her as a symbol of the futility of war.
+- A mix of the above two options. One half of Earth is restored to her former idyllic glory through great effort, while the other half is left alone, barring her deep and unhealing scars of humanity's violent past. The symbol is the same, shown this time in clear visual contrast.
+
+While humanity is gathered, remembering their history and celebrating their achievements, Earth is destroyed before their collective eyes. Chaos follows.
+
+- Humanity splinters and flees into the galaxy, all thoughts of unity lost to the embers.
+- They flee back to their home worlds and stations, hoping to protect them from any additional destruction. (This should be the players first priority.)
+- Alien nations are involuntarily involved as blame is thrown and old grudges are brought back for interstellar witch-hunting.
+- Rumors of war brew, while motives and perpetrator remain unclear.
+- Signs of a greater threat.
 
 ## Threads
 
