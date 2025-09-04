@@ -1,0 +1,54 @@
+# This action generates a PDF from all of the game's writing.
+# Uses file_order.txt to determine the file input and order
+
+name: Build PDF
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Get File Order
+        id: get_file_input
+        run: |
+          {
+            echo 'FILE_ORDER<<EOF'
+            echo "$(cat file_order.txt | tr '\r\n' ' ')"
+            echo
+            echo EOF
+           } >> "$GITHUB_OUTPUT"
+
+      - name: Convert Files with Pandoc
+        uses: docker://fpod/pandoc-weasyprint
+        with:
+          args: >-
+            --from=markdown
+            --to=html
+            --standalone
+            --css="styles.css"
+            --output="Drone_Drifters_v${{ github.run_number }}.pdf"
+            --pdf-engine=weasyprint
+            --metadata title="Drone Drifters v${{ github.run_number }}"
+            --metadata author="Trevor Claridge"
+            ${{ steps.get_file_input.outputs.FILE_ORDER }}
+
+      - name: Upload PDF as Release
+        uses: actions/upload-artifact@v4
+        with:
+          name: "Drone Drifters"
+          path: "Drone_Drifters_v${{ github.run_number }}.pdf"
+          overwrite: true
+
+      - name: Upload PDF as Artifact
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "Drone_Drifters_v${{ github.run_number }}.pdf"
+          tag: "Drone_Drifters_v${{ github.run_number }}"
+          name: "Drone Drifters v${{ github.run_number }}"
+          makeLatest: true
