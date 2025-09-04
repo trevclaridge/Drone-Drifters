@@ -1,0 +1,71 @@
+# Initial Brainstorm
+
+- space fleet battles
+- Characters are drone pilots that are controlling full size spaceship drones remotely
+	- instead of each character owning a single drone, they frequently swap around during battles to utilize their special skills
+	- progression would be a wide choice of buying new drones, upgrading existing drones, or upgrading/buying new drone pilots skills
+- maybe it is centered around a mothership where the drone pilots are controlling the drones from.
+	- players pick which ship their character is piloting from at the beginning of each battle
+		- what happens if that ship is destroyed? Perhaps the character gets a chance to get to an escape pod
+			- Certain abilities can give a bonus when making escape pod checks
+- player characters have abilities that make them better at performing certain actions
+	- one character might have an ability that lets them deal extra damage when in control pf the turrets of frigate class vessels
+	- better maneuverability when control certain ship classes
+	- more narrative focused abilities
+		- miner background grants bonuses when harvesting raw materials
+	- repairing other ships
+- play would alternate: GM activates a ship, then next player in initiative order chooses a ship to activate
+	- certain abilities make your character's initiative better
+	- other abilities allow characters to grant actions/trade their initiative to other characters (Tactician)
+- General Rules
+	- Weapon types
+		- Straight Damage
+			- Perhaps split into types
+		- Ramming
+		- Forced Movement
+		- Mines
+		- EMP
+		- Some ships can FTL jump around on the board
+			- Leave an AOE shockwave on jump - stolen from D:BL "Lightning Reflexes" for the Arc Hunter
+	- Drone Stats
+		- Speed
+		- Armor
+		- Shields
+		- Maneuverability
+		- Crew?
+			- Maybe this is how many drone pilots stations there are
+		- Class
+			- Fighter
+			- Frigate
+			- Carrier
+			- Destroyer
+			- Galleon
+			- Tender (Repair)
+			- Miner
+			- Luxury Liner
+			- Hauler
+			- Personnel Transport
+			- Artillery
+			- Survey
+	- Special Abilities/Traits
+	- Terrain
+		- Obstacles
+		- Difficult Terrain
+- Health is tracked from upgrades to the drone like One Page Rules: Warships
+- Gathering resources during battles grants additional advancement points
+- Each drone must be activated by a character at least once before the mothership can fire its main/biggest weapon--once each drone is activated again, the mothership may fire again. Repeat for the length of combat.
+	- Keeps players from buying just a bunch of ships to fill up the battlefield and slow down the game; they will instead upgrade their existing ships
+- Ship Movement
+	- Grid-based (hex grid?)
+
+## Optional Rules
+
+- Drift Fatigue: a drawback from switching drones too often
+	- Each character class could have a Drift Fatigue max number--each time you switch to a new drone, you mark a stress; if you reach the same number of stress as your Drift Fatigue max, you get some penalty, like you pass out or your rolls take minuses
+	- You can push past your Drift Fatigue max, but the penalties get worse and worse, kinda like DnD exhaustion, with the last result being death
+- Formation Flying: benefits when within close range of another ally ship of the same class
+- The drone technology is fairly new, acting as a way to remotely control ships that were formerly manually controlled from the inside. In special circumstances, Drifters can choose to pilot any ship manually. This blocks other Drifters from taking control of it, but could be the better option for certain situations, like:
+	- Virus-like weapons that infect and take over drones as Drifters drift between them. Manual operation acts as a sort of quarantine.
+	- Drift-blocking technology makes remote control impossible.
+- Alien tech
+	- Symbiote that can get attached to a character, giving them special abilities, as well as talking to them in their mind and providing narrative intrigue
