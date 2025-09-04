@@ -1,4 +1,5 @@
 README.md
+"Core Mechanics/Player Options/Careers.md"
 "GM Focused/Campaign Ideas.md"
 "Misc/Inspirations.md"
 "Design Notes/Inital Brainstorm.md"
