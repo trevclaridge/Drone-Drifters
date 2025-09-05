@@ -19,7 +19,7 @@ Something something, broad side of a barn. Anyways, it's a lot easier to hit a b
 
 ## Speed
 
-Drifter's glide on the thought plane, but drone's need to burn hard in the real. Speed is a drone's tool for that burn, acting as their main movement stat. During an activation, a drone can move up to its Speed in hexes in any direction. Certain abilities or traits may add to or subtract from that number.
+Drifters glide on the thought plane, but drones need to burn hard in the real. Speed is a drone's tool for that burn, acting as their main movement stat. During an activation, a drone can move up to its Speed in hexes in any direction. Certain abilities or traits may add to or subtract from that number.
 
 ## Armor
 
@@ -27,7 +27,7 @@ A drone's Armor is its lifeblood against weaponry that uses base physical force 
 
 ## Shields
 
-Like Armor, Shields protect a drone against attack, this time safeguarding it from energy weapons, like arc cannons, hard-light burn beams, and EMP emitters. When a drone or an enemy ship rolls to deal **Energy** damage, it must meet or exceed it's target's Shields stat to hit. On a hit, the energy damage and any special properties of the weapos are applied to the target.
+Like Armor, Shields protect a drone against attack, this time safeguarding it from energy weapons, like arc cannons, hard-light burn beams, and EMP emitters. When a drone or an enemy ship rolls to deal **Energy** damage, it must meet or exceed its target's Shields stat to hit. On a hit, the energy damage and any special properties of the weapons are applied to the target.
 
 ## Maneuverability
 
