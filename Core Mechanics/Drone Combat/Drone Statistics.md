@@ -23,7 +23,7 @@ Drifters glide on the thought plane, but drones need to burn hard in the real. S
 
 ## Armor
 
-A drone's Armor is its lifeblood against weaponry that uses base physical force to inflict damage. Weapons like missiles, turrets, and explosive mines will need to overcome a drone's Armor in order to cause any amount of carnage. When a drone or an enemy ship rolls to deal **Ballistic** damage, it must meet or exceed its target's Armor stat in order to hit--if the rolled value is equal to or greater than the target's Armor, the hit lands and the weapon's damage and special abilities are applied to the target.
+The pit crew's biggest nightmare. They will yell at you every time you bring home a drone with even just the tiniest scratch—you'll learn to tune it out pretty quickly. A drone's Armor is its lifeblood against weaponry that uses base physical force to inflict damage. Weapons like missiles, turrets, and explosive mines will need to overcome a drone's Armor in order to cause any amount of carnage. When a drone or an enemy ship rolls to deal **Ballistic** damage, it must meet or exceed its target's Armor stat in order to hit--if the rolled value is equal to or greater than the target's Armor, the hit lands and the weapon's damage and special abilities are applied to the target.
 
 ## Shields
 

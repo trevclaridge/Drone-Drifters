@@ -24,7 +24,7 @@ Many mechanics throughout this rulebook will call for "rolling +Career" which in
 - Prisoner/Convict
 - Scholar/Academic
 - Scientist/Specialist
-- Soldier/Warrior
+- Soldier/Warrior/Pilot
 - Spy/Assassin
 - Vender/Merchant/Hauler
 
