@@ -27,7 +27,7 @@ A drone's Armor is its lifeblood against weaponry that uses base physical force 
 
 ## Shields
 
-Like Armor, Shields protect a drone against attack, this time safeguarding it from energy weapons, like arc cannons, hard-light burn beams, and EMP emitters. When a drone or an enemy ship rolls to deal **Energy** damage, it must meet or exceed its target's Shields stat to hit. On a hit, the energy damage and any special properties of the weapons are applied to the target.
+Basically what keeps the quantum entrails of your drone (and thereby you brain) from boiling to those pesky light weapons. Not "light" as in "not heavy," "light" as in "literally made of frakkin' light." Like Armor, Shields protect a drone against attack, this time safeguarding it from energy weapons, like arc cannons, hard-light burn beams, and EMP emitters. When a drone or an enemy ship rolls to deal **Energy** damage, it must meet or exceed its target's Shields stat to hit. On a hit, the energy damage and any special properties of the weapons are applied to the target.
 
 ## Maneuverability
 
