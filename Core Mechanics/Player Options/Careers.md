@@ -17,11 +17,11 @@ Many mechanics throughout this rulebook will call for "rolling +Career" which in
 - Clergy/Theologian/Missionary
 - Diplomat/Official/Ambassador
 - Doctor/Surgeon
+- Escort/Sex Worker
 - Explorer/Traveler/Surveyor
 - Law Enforcer/Civil Servant/Justice Worker
 - Pirate/Criminal/Mercenary
 - Prisoner/Convict
-- Prostitute/Sex Worker
 - Scholar/Academic
 - Scientist/Specialist
 - Soldier/Warrior
