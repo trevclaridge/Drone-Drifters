@@ -32,4 +32,5 @@ Like Armor, Shields protect a drone against attack, this time safeguarding it fr
 ## Maneuverability
 
 Not to be confused with Speed's harsh combustion-based hurry, Maneuverability represents a drone's dexterity in turning itself in the directions it needs to go. Used in conjunction with Speed, Maneuverability is used to ensure a drone's weaponry is lined up with an enemy in order to shoot it down. A small Cruiser class drone will have an easier time countering its own inertia in order to make a sharp turn; a massive Destroyer, on the other hand, may take several agonizing minutes to make a full rotation.
+
 A drone's Maneuverability indicates the number of hex faces it can rotate during its movement phase. The minimum would be 2, as it turns to either of the adjacent faces of the face it is currently directed; maximum would be 6, which would represent a full 360° rotation back to the beginning face (necessary for some special abilities). Examples for how this works in practice will come a little later in the Combat Examples section.
