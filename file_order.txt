@@ -5,3 +5,4 @@ README.md
 "GM Focused/Campaign Ideas.md"
 "Misc/Inspirations.md"
 "Design Notes/Inital Brainstorm.md"
+"Design Notes/Misc Ideas.md"
