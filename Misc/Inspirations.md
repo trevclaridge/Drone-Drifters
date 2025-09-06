@@ -10,4 +10,4 @@
 - [Draw Steel](https://shop.mcdmproductions.com/collections/draw-steel)
 - [Honor + Intrigue](https://www.drivethrurpg.com/en/product/99286/honor-intrigue)
 - [13th Age](https://pelgranepress.com/13th-age/)
-- [Tachyon Squadron](https://evilhat.com/product/tachyon-squadron/)
+- [Tachyon Squadron (Fate)](https://evilhat.com/product/tachyon-squadron/)
