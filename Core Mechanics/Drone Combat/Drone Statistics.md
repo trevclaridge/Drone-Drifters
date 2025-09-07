@@ -4,10 +4,11 @@ The drones that the players will use in space combat are defined with the follow
 
 1. **Class** - what type it is
 2. **Size** - how big it is
-3. **Speed** - how far it can move in a single activation (measured in number of hexes)
-4. **Armor** - how resistant it is to ballisitc weapons
-5. **Shields** - how resistant it is to energy weapons
-6. **Maneuverability** - how far it can pivot in a single activation (measured in number of hex faces)
+3. **Hull** - it's health
+4. **Speed** - how far it can move in a single activation (measured in number of hexes)
+5. **Armor** - how resistant it is to ballisitc weapons
+6. **Shields** - how resistant it is to energy weapons
+7. **Maneuverability** - how far it can pivot in a single activation (measured in number of hex faces)
 
 ## Class
 
@@ -17,9 +18,13 @@ Some time ago, the bureaucrats decided that every ship and drone manufactured by
 
 Something something, broad side of a barn. Anyways, it's a lot easier to hit a big ship than a tiny one. A drone's Size is what tells you how big its physical silhouette is in the context of a space battle. Many individual mechanics, like weapon systems or sensors, will behave differently when targeting ships of different sizes.
 
+## Hull
+
+One too many bullet holes will put your drone out of commission indefinitely. In order for your drone to live and fight another day, you need to maintain Hull integrity. When attacks from enemies overcome your Armor or Shields, the drone's systems take damage, potentially disabling them. If all of a drone's systems are disabled, hits will instead inflict damage on the drone itself, draining its Hull. When a drone's Hull reaches zero, the drone is destroyed.
+
 ## Speed
 
-Drifters glide on the thought plane, but drones need to burn hard in the real. Speed is a drone's tool for that burn, acting as their main movement stat. During an activation, a drone can move up to its Speed in hexes in any direction. Certain abilities or traits may add to or subtract from that number.
+Drifters glide on the thought plane, but drones need to burn hard in the real. Speed is a drone's tool for that burn, acting as their main movement stat. During an activation, a drone can move up to its Speed in hexes. Drones must move in the direction they are facing, which is determined by their Maneuverability. Certain abilities or traits may add to or subtract from a drone's Speed, allow further or short movement.
 
 ## Armor
 
