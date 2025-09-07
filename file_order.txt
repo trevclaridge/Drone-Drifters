@@ -2,6 +2,7 @@ README.md
 "Core Mechanics/Player Options/Careers.md"
 "Core Mechanics/Drone Combat/Drone Statistics.md"
 "Core Mechanics/Drone Combat/Drone Classes.md"
+"Core Mechanics/Drone Combat/Overview of Combat.md"
 "GM Focused/Campaign Ideas.md"
 "Misc/Inspirations.md"
 "Design Notes/Inital Brainstorm.md"
