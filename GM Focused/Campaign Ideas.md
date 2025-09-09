@@ -35,3 +35,7 @@ Race of ancient megalithic aliens that are locked away in a sort of status. The 
 --- 
 
 Long Range Drift (LRD), an experimental extension of standard Drift that allows remote piloting at huge ranges. Consciousnesses are pinged through a serious of Drift Beacons placed throughout the galaxy.
+
+--- 
+
+An alien character that is just one drone from a massive hive mind, located a large distance away.
