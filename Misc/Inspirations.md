@@ -11,3 +11,5 @@
 - [Honor + Intrigue](https://www.drivethrurpg.com/en/product/99286/honor-intrigue)
 - [13th Age](https://pelgranepress.com/13th-age/)
 - [Tachyon Squadron (Fate)](https://evilhat.com/product/tachyon-squadron/)
+- Top Gun
+- Red Tails
