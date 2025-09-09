@@ -1,0 +1,34 @@
+# Combat Abilities
+
+- mines
+- manuever 6, i.e full 360 spin
+- extra damage per Maneuver taken
+- extra damage per hex travelled
+- shoot into the back of an enemy
+- shoot into the side of enemy
+- shoot into the front of an enemy
+- when containing more than one Drifter
+- AOE burst centered on activated drone
+- AOE at distance
+- charge up, fired next round
+- extra damage based on distance to target
+- extra damage for each point of Shields/Armor/Hull
+- extra Maneuverability, beyond normal max of 6
+- give extra Shields/Armor when performed
+- formation flying
+- reactions to attacks (Point Defense Turret)
+- special rules if the drone has already been activated
+- special rules if first activation during the round
+- stun 
+    - no abilities 
+    - no movement
+- lock Drifters within drone
+- lock Drifters out of drone
+- change damage type (Ballistics or Energy) depending on scenario
+- taunt/force enemy to attack specific drone
+- forced movement
+    - into another enemy
+    - into a drone
+    - into a space object
+    - into empty space
+- target Drifters inside of a drone
