@@ -35,3 +35,6 @@
 - decoys
 - extra damage when on second round, third round, etc.
 - extra damage depending on how many drones have been activated
+- temporarily grant additional Shields/Armor
+- repair
+- reactions to other drones' attacks/activations/abilities
