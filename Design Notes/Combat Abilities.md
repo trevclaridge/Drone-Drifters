@@ -32,3 +32,6 @@
     - into a space object
     - into empty space
 - target Drifters inside of a drone
+- decoys
+- extra damage when on second round, third round, etc.
+- extra damage depending on how many drones have been activated
