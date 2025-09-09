@@ -31,3 +31,7 @@ While humanity is gathered, remembering their history and celebrating their achi
 ---
 
 Race of ancient megalithic aliens that are locked away in a sort of status. The government is keenly aware of their existence and striving to keep them from entering back into humanity's regions of space.
+
+--- 
+
+Long Range Drift (LRD), an experimental extension of standard Drift that allows remote piloting at huge ranges. Consciousnesses are pinged through a serious of Drift Beacons placed throughout the galaxy.
