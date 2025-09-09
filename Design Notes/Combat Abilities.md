@@ -38,3 +38,4 @@
 - temporarily grant additional Shields/Armor
 - repair
 - reactions to other drones' attacks/activations/abilities
+- prevent a Drifter from piloting a specific drone (*Drift Terror*)
