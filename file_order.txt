@@ -1,4 +1,5 @@
 README.md
+"Core Mechanics/Player Options/Drifter Stats.md"
 "Core Mechanics/Player Options/Careers.md"
 "Core Mechanics/Drone Combat/Drone Statistics.md"
 "Core Mechanics/Drone Combat/Drone Classes.md"
@@ -8,3 +9,4 @@ README.md
 "Misc/Inspirations.md"
 "Design Notes/Inital Brainstorm.md"
 "Design Notes/Misc Ideas.md"
+"Design Notes/Combat Abilities.md"

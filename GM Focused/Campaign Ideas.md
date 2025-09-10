@@ -27,15 +27,14 @@ While humanity is gathered, remembering their history and celebrating their achi
 	- "Why are we training on this ancient shit anyway? Not like we're ever gonna use it."
 		- Another cadet says this in a locker room or something, and each player hears it. After each character's test flashbacks, ask the player how they react to hearing this.
 
-
 ---
 
 Race of ancient megalithic aliens that are locked away in a sort of status. The government is keenly aware of their existence and striving to keep them from entering back into humanity's regions of space.
 
---- 
+---
 
 Long Range Drift (LRD), an experimental extension of standard Drift that allows remote piloting at huge ranges. Consciousnesses are pinged through a serious of Drift Beacons placed throughout the galaxy.
 
---- 
+---
 
 An alien character that is just one drone from a massive hive mind, located a large distance away.

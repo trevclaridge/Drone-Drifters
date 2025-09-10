@@ -19,8 +19,8 @@
 - reactions to attacks (Point Defense Turret)
 - special rules if the drone has already been activated
 - special rules if first activation during the round
-- stun 
-    - no abilities 
+- stun
+    - no abilities
     - no movement
 - lock Drifters within drone
 - lock Drifters out of drone
