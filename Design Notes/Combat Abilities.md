@@ -4,7 +4,7 @@
 - manuever 6, i.e full 360 spin
 - extra damage per Maneuver taken
 - extra damage per hex travelled
-- shoot into the back of an enemy
+- shoot into the back of an enemy (*Where the Sun Don't Shine)
 - shoot into the side of enemy
 - shoot into the front of an enemy
 - when containing more than one Drifter
