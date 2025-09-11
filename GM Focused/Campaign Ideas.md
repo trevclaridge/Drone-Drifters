@@ -38,3 +38,8 @@ Long Range Drift (LRD), an experimental extension of standard Drift that allows 
 ---
 
 An alien character that is just one drone from a massive hive mind, located a large distance away.
+
+---
+
+A countdown, discovered on an otherwise unimpressive world. A countdown to what? No one knows.
+
