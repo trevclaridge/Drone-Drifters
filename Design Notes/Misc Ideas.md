@@ -9,3 +9,8 @@ Something similar for the reverse: a weapon that blocks Drifters from taking con
 Instead of making it so Drifters can only activate an un-activated drone each round, allow them activate any drone, but have certain abilities can only be used once per "refresh," which is when every drone has been activated at least once.
 
 - Add a checkbox to the fleet sheet for "Activated"
+
+---
+
+Drones of Size bigger than 1 take up as many hexes as their size value for the sake of silhouette and targetability. You just designate one hex of the footprint to be the front, which is what is used for moving and manuevering.
+
