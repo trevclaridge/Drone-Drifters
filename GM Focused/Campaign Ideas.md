@@ -43,3 +43,10 @@ An alien character that is just one drone from a massive hive mind, located a la
 
 A countdown, discovered on an otherwise unimpressive world. A countdown to what? No one knows.
 
+---
+
+When meeting the other race of Drift-capable aliens
+
+- Put another player token on the board, representing the alien consciousness.
+- The alien has the ability to take over the drones from the human fleet.
+
