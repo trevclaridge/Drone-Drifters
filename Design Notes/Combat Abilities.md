@@ -39,3 +39,6 @@
 - repair
 - reactions to other drones' attacks/activations/abilities
 - prevent a Drifter from piloting a specific drone (*Drift Terror*)
+- cooldowns
+    - round-based
+    - recharge rolls (recharges on a roll of 5-6, like a 5e breath weapons)
