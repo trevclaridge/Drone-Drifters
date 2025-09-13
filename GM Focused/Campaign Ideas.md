@@ -50,3 +50,7 @@ When meeting the other race of Drift-capable aliens
 - Put another player token on the board, representing the alien consciousness.
 - The alien has the ability to take over the drones from the human fleet.
 
+--- 
+
+Group of Drifted consciousnesses trapped in some sort of inanimate object, like a stranded drone that has no power.
+
