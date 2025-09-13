@@ -54,3 +54,7 @@ When meeting the other race of Drift-capable aliens
 
 Group of Drifted consciousnesses trapped in some sort of inanimate object, like a stranded drone that has no power.
 
+---
+
+An entire solar system that has been consumed by a parasitic alien race.
+
