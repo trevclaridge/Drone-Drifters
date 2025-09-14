@@ -22,3 +22,12 @@ Drift Ricochet. When a Drifter transfers to a new drone, they bounce any existin
     - when you choose to Ricochet...
     - chain of Ricochets
 
+---
+
+Pilot Roles (classes)
+
+- Ace (shooting)
+- Bouncer (Drift Ricochet)
+- Engineer (Repair and Salvage)
+- Tactician (buffs and additional activations)
+
