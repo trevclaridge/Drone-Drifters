@@ -56,5 +56,13 @@ Group of Drifted consciousnesses trapped in some sort of inanimate object, like 
 
 ---
 
-An entire solar system that has been consumed by a parasitic alien race.
+An entire solar system that has been consumed by a parasitic alien race. Tendrils spanning outer space, connecting planets together.
+
+---
+
+Rogue AI that is in the process of turning a region of space into some mundane object, like the example of the stamp collecting AI.
+
+---
+
+AI that hides on a character's computer until they feel they can trust the character not to report them/delete them. Purely interact with the player through text.
 
