@@ -13,3 +13,4 @@
 - [Tachyon Squadron (Fate)](https://evilhat.com/product/tachyon-squadron/)
 - Top Gun
 - Red Tails
+- [The Wildsea](https://www.myth.works/collections/the-wildsea-homepage)
