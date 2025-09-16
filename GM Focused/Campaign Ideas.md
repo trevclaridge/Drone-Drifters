@@ -75,3 +75,5 @@ AI that hides on a character's computer until they feel they can trust the chara
 
 A malevolent intelligent entity is stranded in space, just waiting for someone to come along so they can kill them and steal their mode of transport back to civilization.
 
+- first fine a benevolent being; this person seems harmless and doesn't know how they ended up stranded. Convince the players that this person is safe and be less afraid of picking up another stranded person.
+- when they find the malevolent, it also starts out fine; it's only when the two are together that something is unlocked in the first that causes them to be evil.
