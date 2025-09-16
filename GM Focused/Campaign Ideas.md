@@ -54,6 +54,9 @@ When meeting the other race of Drift-capable aliens
 
 Group of Drifted consciousnesses trapped in some sort of inanimate object, like a stranded drone that has no power.
 
+- The whole crew of a large spaceship Drifted their consciousnesses to save themselves as their ship was about to be destroyed. 
+- When the Drift piloting station is destroyed, Drifted consciousnesses are stuck wherever they reside until they can launch to another open Drift connection.
+
 ---
 
 An entire solar system that has been consumed by a parasitic alien race. Tendrils spanning outer space, connecting planets together.
@@ -67,4 +70,8 @@ Rogue AI that is in the process of turning a region of space into some mundane o
 ---
 
 AI that hides on a character's computer until they feel they can trust the character not to report them/delete them. Purely interact with the player through text.
+
+---
+
+A malevolent intelligent entity is stranded in space, just waiting for someone to come along so they can kill them and steal their mode of transport back to civilization.
 
