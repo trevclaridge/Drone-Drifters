@@ -62,6 +62,8 @@ An entire solar system that has been consumed by a parasitic alien race. Tendril
 
 Rogue AI that is in the process of turning a region of space into some mundane object, like the example of the stamp collecting AI.
 
+- Another AI that was tasked with terraforming planets, has just been creating a multitude of lush paradises in a remote sector.
+
 ---
 
 AI that hides on a character's computer until they feel they can trust the character not to report them/delete them. Purely interact with the player through text.
