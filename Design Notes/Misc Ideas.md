@@ -30,4 +30,4 @@ Pilot Roles (classes)
 - Bouncer (Drift Ricochet)
 - Engineer (Repair and Salvage)
 - Tactician (buffs and additional activations)
-
+- Hacker/Saboteur (debuff enemies)
