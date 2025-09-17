@@ -1,5 +1,5 @@
 # Drone Sheet
 
-Below is the Fleet Sheet entry for our example drone *Indigo M*.
+Below is the Fleet Sheet entry for a single drone.
 
-![Example Fleet Sheet entry for the Indigo M drone](Assets/Drone_Sheet.png)
+![Example Fleet Sheet entry for a single drone.](Assets/Drone_Sheet.png)
