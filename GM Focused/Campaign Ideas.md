@@ -94,5 +94,9 @@ A collective of massive-sized alien species. The Older Lights.
 
 There should be multiple alliances between alien species. Kind of like the Council races from Mass Effect, but there would be multiple Councils.
 
+---
+
+A species/nation that is are the willing servants/helpers/assistants of another species or nation. They are trying to atone for some incredibly harsh wrongdoing from the past. Neither speak very openly about what that atrocity was, so as not to give other peoples the idea 
+
 
 
