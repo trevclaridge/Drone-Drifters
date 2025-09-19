@@ -90,4 +90,9 @@ A collective of massive-sized alien species.
 - They've joined together to hold each other accountable--they do not want their more primal natures to overcome them. Should they lose control, they could destroy entire nations of the "littler lights" with ease.
 - They are a wise and mentoring collective, providing insight where asked, but not interfering for fear of influencing younger species away from developing naturally.
 
+---
+
+There should be multiple alliances between alien species. Kind of like the Council races from Mass Effect, but there would be multiple Councils.
+
+
 
