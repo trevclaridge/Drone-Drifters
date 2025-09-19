@@ -82,3 +82,12 @@ A malevolent intelligent entity is stranded in space, just waiting for someone t
 
 An alien brings back to life a body that was previously sent out into space as part of a funeral procession. 
 
+---
+
+A collective of massive-sized alien species.
+
+- Each member is of a different species, each seemingly singular (of no known species, last of their people kind of thing, but it's not definite that they are the last)
+- They've joined together to hold each other accountable--they do not want their more primal natures to overcome them. Should they lose control, they could destroy entire nations of the "littler lights" with ease.
+- They are a wise and mentoring collective, providing insight where asked, but not interfering for fear of influencing younger species away from developing naturally.
+
+
