@@ -14,8 +14,6 @@
 
 **Shields** - 2
 
-**Maneuverability** - 6
-
 **Systems:**
 
 - **Hull** - □ □ □ □

@@ -5,10 +5,9 @@ The drones that the players will use in space combat are defined with the follow
 1. **Class** - what type it is
 2. **Size** - how big it is
 3. **Hull** - it's health
-4. **Speed** - how far it can move in a single activation (measured in number of hexes)
+4. **Speed** - how far it can move or turn in a single activation
 5. **Armor** - how resistant it is to ballisitc weapons
 6. **Shields** - how resistant it is to energy weapons
-7. **Maneuverability** - how far it can pivot in a single activation (measured in number of hex faces)
 
 ## Class
 
@@ -24,7 +23,11 @@ One too many bullet holes will put your drone out of commission indefinitely. In
 
 ## Speed
 
-Drifters glide on the thought plane, but drones need to burn hard in the real. Speed is a drone's tool for that burn, acting as their main movement stat. During an activation, a drone can move up to its Speed in hexes. Drones must move in the direction they are facing, which is determined by their Maneuverability. Certain abilities or traits may add to or subtract from a drone's Speed, allow further or short movement.
+Drifters glide on the thought plane, but drones need to burn hard in the real. Speed is a drone's tool for that burn, acting as their main movement stat. During an activation, a drone can move up to its Speed in hexes. Certain abilities or traits may add to or subtract from a drone's Speed, allowing further or shorter movement.
+
+Drones can only move in the forward direction, however, meaning they needs some mechanism for turning. Speed also governs a drone's ability to turn in space, referred to as **Maneuvering**. Instead of using a point of Speed to move forward, a drone can instead using the point in a *maneuver* to rotate one hex face in either direction from its current forward hex face. After the maneuver is completed, the drone will have a new forward hex face, and can move forward with an additional point of Speed as normal, or it can proceed to maneuver to rotate a greater arc. A "maneuver 6" would represent a full 360° rotation (necessary for some special abilities).
+
+Speed indicates the total combined movements and maneuvers a drone can perform (in any order) during an activation.
 
 ## Armor
 
@@ -33,9 +36,3 @@ The pit crew's biggest nightmare. They will yell at you every time you bring hom
 ## Shields
 
 Basically what keeps the quantum entrails of your drone (and thereby you brain) from boiling to those pesky light weapons. Not "light" as in "not heavy," "light" as in "literally made of frakkin' light." Like Armor, Shields protect a drone against attack, this time safeguarding it from energy weapons, like arc cannons, hard-light burn beams, and EMP emitters. When a drone or an enemy ship rolls to deal **Energy** damage, it must exceed its target's Shields stat to deal damage. The target's Shields value gets subtracted from the rolled damage value, and any remainder gets applied as damage to the drone. Any special abilities from the attack are applied regardless of whether the target drone took any damage.
-
-## Maneuverability
-
-Not to be confused with Speed's harsh combustion-based hurry, Maneuverability represents a drone's dexterity in turning itself in the directions it needs to go. Used in conjunction with Speed, Maneuverability is used to ensure a drone's weaponry is lined up with an enemy in order to shoot it down. A small Cruiser class drone will have an easier time countering its own inertia in order to make a sharp turn; a massive Destroyer, on the other hand, may take several agonizing minutes to make a full rotation.
-
-A drone's Maneuverability indicates the number of hex faces it can rotate during its movement phase. The minimum would be 2, as it turns to either of the adjacent faces of the face it is currently directed; maximum would be 6, which would represent a full 360° rotation back to the beginning face (necessary for some special abilities). Examples for how this works in practice will come a little later in the Combat Examples section.

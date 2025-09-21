@@ -12,7 +12,6 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 9       |
 | Armor           | 3       |
 | Shields         | 2       |
-| Maneuverability | 6       |
 
 ## Cruiser
 
@@ -24,7 +23,6 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 7       |
 | Armor           | 5       |
 | Shields         | 3       |
-| Maneuverability | 6       |
 
 ## Destroyer
 
@@ -36,7 +34,6 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 7         |
 | Armor           | 5         |
 | Shields         | 4         |
-| Maneuverability | 4         |
 
 ## Carrier
 
@@ -45,10 +42,9 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Class           | Carrier |
 | Size            | 3       |
 | Hull            | 6       |
-| Speed           | 5       |
+| Speed           | 6       |
 | Armor           | 5       |
 | Shields         | 6       |
-| Maneuverability | 4       |
 
 ## Artillery
 
@@ -60,7 +56,6 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 5         |
 | Armor           | 5         |
 | Shields         | 3         |
-| Maneuverability | 6         |
 
 ## Survey
 
@@ -71,7 +66,6 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 10     |
 | Armor           | 3      |
 | Shields         | 3      |
-| Maneuverability | 6      |
 
 ## Tender
 
@@ -83,7 +77,6 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 7      |
 | Armor           | 3      |
 | Shields         | 3      |
-| Maneuverability | 6      |
 
 ## Miner
 
@@ -92,10 +85,9 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Class           | Miner |
 | Size            | 2     |
 | Hull            | 4     |
-| Speed           | 5     |
+| Speed           | 6     |
 | Armor           | 5     |
 | Shields         | 3     |
-| Maneuverability | 4     |
 
 ## Hauler
 
@@ -107,7 +99,6 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 6      |
 | Armor           | 4      |
 | Shields         | 3      |
-| Maneuverability | 4      |
 
 ## Personnel Transport
 
@@ -116,10 +107,9 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Class           | Personnel Transport |
 | Size            | 2                   |
 | Hull            | 4                   |
-| Speed           | 6                   |
+| Speed           | 7                   |
 | Armor           | 3                   |
 | Shields         | 3                   |
-| Maneuverability | 5                   |
 
 ## Luxury Liner
 
@@ -128,10 +118,9 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Class           | Luxury Liner |
 | Size            | 4            |
 | Hull            | 5            |
-| Speed           | 4            |
+| Speed           | 5            |
 | Armor           | 6            |
 | Shields         | 6            |
-| Maneuverability | 3            |
 
 ## Colony Seed
 
@@ -143,4 +132,3 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 5           |
 | Armor           | 6           |
 | Shields         | 6           |
-| Maneuverability | 3           |
