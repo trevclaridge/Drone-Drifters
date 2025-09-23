@@ -8,5 +8,5 @@
 
 ## Scars
 
-- **Introvert**: You do your best work in the silence of being alone. When you begin a round sharing a drone with at least one other Drifter consciousnesses, roll with 2 less Drifter dice than your current standard pool.
+- **Introvert**: You do your best work in the silence of being alone. When you begin a round sharing a drone with at least one other Drifter consciousnesses, roll with 2 less Drift dice than your current standard pool.
 
