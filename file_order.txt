@@ -18,4 +18,5 @@ README.md
 "Misc/Inspirations.md"
 "Design Notes/Inital Brainstorm.md"
 "Design Notes/Misc Ideas.md"
+"Design Notes/GM Ideas.md"
 "Design Notes/Combat Abilities.md"
