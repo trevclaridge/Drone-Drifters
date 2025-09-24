@@ -63,6 +63,7 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | --------------- | ------ |
 | Class           | Survey |
 | Size            | 1      |
+| Hull            | 4      |
 | Speed           | 10     |
 | Armor           | 3      |
 | Shields         | 3      |
