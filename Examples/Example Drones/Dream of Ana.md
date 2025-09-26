@@ -30,6 +30,6 @@
   - Combatants that pass through this drone's rear line within range take this system's damage without a Drifter needing to spend any Drift dice.
 
 - **Pit Bays** - □ □ □ □
-  - *A team of mechanics and munitions stand ready onboard the Dream of Ana to provide much needed repair and resupply during the heat of battle.*
+  - *A team of mechanics and munitions officers stand ready onboard the Dream of Ana to provide much needed repair and resupply during the heat of battle.*
   - Range: 1
   - When this drone is within range of an ally drone, it can repair the ally's systems or hull for 2d6 points.
