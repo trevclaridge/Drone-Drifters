@@ -16,7 +16,7 @@ Drones of Size bigger than 1 take up as many hexes as their size value for the s
 
 ---
 
-Drift Ricochet. When a Drifter transfers to a new drone, they bounce any existing Drifters in that drone to a different drone. This replaces choosing where to move at the beginning of a turn, you instead activate the drone your currently inhabiting, then choose to shift to a new drone at the end of your turn.
+Drift Ricochet. When a Drifter transfers to a new drone, they bounce any existing Drifters in that drone to a different drone. This replaces choosing where to move at the beginning of a turn, you instead activate the drone your currently piloting, then choose to shift to a new drone at the end of your turn.
 
 - abilities based on Ricochet
     - when you choose to Ricochet...

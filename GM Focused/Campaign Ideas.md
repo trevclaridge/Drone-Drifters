@@ -50,11 +50,11 @@ When meeting the other race of Drift-capable aliens
 - Put another player token on the board, representing the alien consciousness.
 - The alien has the ability to take over the drones from the human fleet.
 
---- 
+---
 
 Group of Drifted consciousnesses trapped in some sort of inanimate object, like a stranded drone that has no power.
 
-- The whole crew of a large spaceship Drifted their consciousnesses to save themselves as their ship was about to be destroyed. 
+- The whole crew of a large spaceship Drifted their consciousnesses to save themselves as their ship was about to be destroyed.
 - When the Drift piloting station is destroyed, Drifted consciousnesses are stuck wherever they reside until they can launch to another open Drift connection.
 
 ---
@@ -80,7 +80,7 @@ A malevolent intelligent entity is stranded in space, just waiting for someone t
 
 ---
 
-An alien brings back to life a body that was previously sent out into space as part of a funeral procession. 
+An alien brings back to life a body that was previously sent out into space as part of a funeral procession.
 
 ---
 
@@ -96,7 +96,4 @@ There should be multiple alliances between alien species. Kind of like the Counc
 
 ---
 
-A species/nation that is are the willing servants/helpers/assistants of another species or nation. They are trying to atone for some incredibly harsh wrongdoing from the past. Neither speak very openly about what that atrocity was, so as not to give other peoples the idea 
-
-
-
+A species/nation that is are the willing servants/helpers/assistants of another species or nation. They are trying to atone for some incredibly harsh wrongdoing from the past. Neither speak very openly about what that atrocity was, so as not to give other peoples the idea
