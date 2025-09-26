@@ -10,7 +10,7 @@ README.md
 "Examples/Example Drones/Cicada.md"
 "Examples/Example Drones/Manta.md"
 "Examples/Example Drones/Nibbler.md"
-"Exampes/Example Drones/Dream of Ana.md"
+"Examples/Example Drones/Dream of Ana.md"
 "Examples/Example Drones/Halsey Hauler.md"
 "Examples/Example Drifters/Drifter 1.md"
 "Examples/Example Drifters/Drifter 2.md"
