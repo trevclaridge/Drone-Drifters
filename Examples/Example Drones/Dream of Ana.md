@@ -18,7 +18,7 @@
 
 - **Signal-Seeking Missiles (Sides)** - □ □ □ □
 
-  - *These missiles are able to track and folow a battery of artificial signals.*
+  - *These missiles are able to track and follow a battery of artificial signals.*
   - Damage: 2d4 Ballistic
   - Range: 5
   - The projectiles of this weapon can target enemies 1 hex to either side of the standard cone of side-fire weaponry.
