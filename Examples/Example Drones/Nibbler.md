@@ -22,7 +22,3 @@
   - *Massive apendages equpied with all manner of repair tooling.*
   - Range: 2
   - When this drone is within range of an ally drone, it can repair the ally's systems or hull for 2d6 points.
-
-- **Energized Engines** - □ □ □ □
-  - *The engines of the Nibbler have been overclocked so she can better aid in battle.*
-  - +6 Speed
