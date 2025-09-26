@@ -7,8 +7,8 @@
 | Size    | 1          |
 | Hull    | 4          |
 | Speed   | 9          |
-| Armor   | 4          |
-| Shields | 2          |
+| Armor   | 5          |
+| Shields | 3          |
 
 **Systems:**
 
@@ -24,11 +24,6 @@
   - Damage: 2d4 Ballistic
   - Range: 6
 
-- **Flickwhip Net** - □ □ □
-
-  - *A thin, flexible membrane that gathers stray electrons from the environment as it moves through space.*
-  - When this drone maneuvers 6 in a single activation, it gains +3 Shields until the beginning of the next round.
-
-- **Reinforced Plating** - □ □
+- **Reinforced Plating** - □ □ □
   - *Strong metal alloy welded over areas of this drone often exposed to damage.*
-  - +1 Armor
+  - +2 Armor

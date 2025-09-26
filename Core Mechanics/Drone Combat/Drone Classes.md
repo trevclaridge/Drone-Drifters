@@ -11,7 +11,7 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Hull            | 4       |
 | Speed           | 9       |
 | Armor           | 3       |
-| Shields         | 2       |
+| Shields         | 3       |
 
 ## Cruiser
 
