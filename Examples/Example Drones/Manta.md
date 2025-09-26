@@ -2,26 +2,26 @@
 
 | Stat    | Value   |
 | ------- | ------- |
-| Name    | Manta   |
-| Class   | Cruiser |
+| Name    | *Manta* |
+| Class   | Fighter |
 | Size    | 1       |
 | Hull    | 4       |
-| Speed   | 7       |
-| Armor   | 5       |
+| Speed   | 9       |
+| Armor   | 6       |
 | Shields | 3       |
 
 ## Systems
 
-- **Ion Cannon (Front)** - □ □
-  	- *A straight line beam of pure energy, ripping holes in space on the way to its target.*
-  	- Damage: 2d6 Energy
-  	- Range: 5
+- **Ye Olde Machine Guns (Front)** - □ □ □ □
+  	- *If it ain't broke. Bog-standard high velocity projectiles that tear things up.*
+  	- Damage: 2d6 Ballistic
+  	- Range: 4
 
-- **Spin Shell Ordinance (Sides)** - □ □ □
-	- *Corkscrew-shaped projectiles, 3 meters wide, flung through space in a rapid spin, meant to drill through enemy craft.*
-	- Damage: 2d4 Ballistic
+- **Reinvigorator Cannons (Sides)** - □ □
+	- *Thinly targeted beams that heat inorganic material to level of plasma.*
+	- Damage: 2d6 Energy
 	- Range: 6
 
-- **Reinforced Plating** - □ □ □
-  	- *Strong metal alloy welded over areas of this drone often exposed to damage.*
-  	- +2 Armor
+- **Flickwhip Net** - □ □ □
+	- *A thin, flexible membrane that gathers stray electrons from the environment as it moves through space.*
+	- When this drone maneuvers 6 in a single activation, it gains +3 Shields until the beginning of the next round.
