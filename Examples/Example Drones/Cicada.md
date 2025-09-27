@@ -24,4 +24,4 @@
 
 - **Reinforced Plating** - □ □ □
   	- *Strong metal alloy welded over areas of this drone often exposed to damage.*
-  	- +3 Armor
+  	- While this system is operable, this drone has +3 Armor.

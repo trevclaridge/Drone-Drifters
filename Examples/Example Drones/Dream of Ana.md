@@ -13,7 +13,7 @@
 ## Systems
 
 - **Belt Buster (Front)** - □ □ □ □ □
-	- *A shackwave emiter designed to clear a hole for the Dream of Ana to pass through a dense astroid field.*
+	- *A shock wave emitter designed to clear a hole for the Dream of Ana to pass through a dense asteroid field.*
 	- Damage: 2d10 Energy
 	- Range: 3
 
@@ -24,12 +24,12 @@
 	- The projectiles of this weapon can target enemies 1 hex to either side of the standard cone of side-fire weaponry.
 
 - **Long-Tail Engines (Rear)** - □ □ □
-	- *The engine plumes of the Dreams of Ana are tuned for slower, stabler movement, burning in a long cone*
+	- *The engine plumes of the Dreams of Ana are tuned for slower, stabler movement, burning in a long cone.*
 	- Damage: 4d4 Energy
 	- Range: 4
 	- Combatants that pass through this drone's rear line within range take this system's damage without a Drifter needing to spend any Drift dice.
 
 - **Pit Bays** - □ □ □ □
-	- *A team of mechanics and munitions officers stand ready onboard the Dream of Ana to provide much needed repair and resupply during the heat of battle.*
+	- *A team of mechanics and munitions officers stand ready on-board the Dream of Ana to provide much needed repair and resupply during the heat of battle.*
 	- Range: 1
-	- When this drone is within range of an ally drone, it can repair the ally's systems or hull for 2d6 points.
+	- When this drone is within range of an ally drone, it can repair the ally's systems or Hull for 2d6 points.

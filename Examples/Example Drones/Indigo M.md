@@ -12,7 +12,7 @@
 
 ## Systems
 
-- **Archeological Needler** - □ □ □
+- **Archaeological Needler** - □ □ □
 	- *Short bursts of thin projectiles meant to move debris out of the line of sight of visual sensors.*
 	- Damage: 2d4 Ballistic
 	- Range: 4

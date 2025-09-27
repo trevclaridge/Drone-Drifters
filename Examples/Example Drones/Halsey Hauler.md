@@ -18,7 +18,7 @@
 	- Range: 5
 
 - **Detachable Fuel Tanks (All)** - □ □ □ □ □ □
-	- *These massive cannisters of refined rocket fuel may come in handy.*
+	- *These massive canisters of refined rocket fuel may come in handy.*
 	- Damage: 2d8 Ballistic
 	- Range: 4
 	- Spawn 1 fuel tank within range. When a combatant enters a hex adjacent to a tank, the tank explodes and deals the listed damage. After exploding, the tank is removed.
