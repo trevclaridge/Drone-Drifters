@@ -1,4 +1,4 @@
-# Hive Scount
+# Hive Survey
 
 | Stat            | Value  |
 | --------------- | ------ |
