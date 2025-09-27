@@ -1,5 +1,13 @@
 # Example Drifter 2
 
+## Name
+
+## Callsign
+
+## Health: □ □ □ □ □ □ □ □ □
+
+## Launch (Cost: 1)
+
 ## Stars
 
 - **L.A.S.E.R Specialist**: During battle, you are able to tune a drone's Energy attacks to the proper wavelengths to cut past standard defenses. Attacks you roll that deal Energy damage ignore Shields.

@@ -17,7 +17,7 @@
   	- Damage: 2d6 Ballistic
   	- Range: 4
 
-- **Reinvigorator Cannons (Sides)** - □ □
+- **Reinvigorator Cannons (Sides)** - □ □ □
 	- *Thinly targeted beams that heat inorganic material to level of plasma.*
 	- Damage: 2d6 Energy
 	- Range: 6

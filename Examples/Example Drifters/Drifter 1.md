@@ -1,5 +1,13 @@
 # Example Drifter 1
 
+## Name
+
+## Callsign
+
+## Health: □ □ □ □ □ □ □ □ □
+
+## Launch (Cost: 1)
+
 ## Stars
 
 - **Multitasker**: You can split your mind into two distinct consciousness when Drifting. During combat, you may split your mind to control two consciounesses that can launch independently of each other. Additionally, instead of rolling your standard pool of Drift dice at the beginning of each round, when your mind is split you instead roll two sets of Drift dice, each with 1 less die than your standard pool. Each set represents the capability of one drifted consciousness and are assigned to Drift abilities separately; the two consciouness from a split mind may only Assist each other if they share a drone, as normal.
