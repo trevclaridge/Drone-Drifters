@@ -84,7 +84,7 @@ An alien brings back to life a body that was previously sent out into space as p
 
 ---
 
-A collective of massive-sized alien species. The Older Lights.
+A collective of megalithic alien species. The Older Lights.
 
 - Each member is of a different species, each seemingly singular (of no known species, last of their people kind of thing, but it's not definite that they are the last)
 - They've joined together to hold each other accountable--they do not want their more primal natures to overcome them. Should they lose control, they could destroy entire nations of the "younger lights" with ease.
