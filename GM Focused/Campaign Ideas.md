@@ -98,3 +98,7 @@ There should be multiple alliances between alien species. Kind of like the Counc
 ---
 
 A species/nation that is are the willing servants/helpers/assistants of another species or nation. They are trying to atone for some incredibly harsh wrongdoing from the past. Neither speak very openly about what that atrocity was, so as not to give other peoples the idea
+
+---
+
+Alien race of benevolent microscopic organisms. This race reanimates dead bodies to move and speak. People are generally wary of them due purely to their reanimation of the dead, but they are generally good-natured and aware that their way of being is contrary to most others. Some agree to only animate bodies that have volunteered their body for the purpose of allowing this race a host.
