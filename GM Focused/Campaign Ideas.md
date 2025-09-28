@@ -89,6 +89,7 @@ A collective of massive-sized alien species. The Older Lights.
 - Each member is of a different species, each seemingly singular (of no known species, last of their people kind of thing, but it's not definite that they are the last)
 - They've joined together to hold each other accountable--they do not want their more primal natures to overcome them. Should they lose control, they could destroy entire nations of the "younger lights" with ease.
 - They are a wise and mentoring collective, providing insight where asked, but not interfering for fear of influencing younger species away from developing naturally.
+- The GM could be called the Oldest Light. Sort of a fusing of the setting with the role of the meta role of the GM shaping the entire universe.
 
 ---
 
