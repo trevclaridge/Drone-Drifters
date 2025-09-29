@@ -31,3 +31,8 @@ Pilot Roles (classes)
 - Engineer (Repair and Salvage)
 - Tactician (buffs and additional activations)
 - Hacker/Saboteur (debuff enemies)
+
+---
+
+There should be one or a few sports outlined in the book that Drifters can play in their downtime. Maybe it's a full on minigame.
+
