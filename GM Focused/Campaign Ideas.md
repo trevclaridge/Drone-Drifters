@@ -102,3 +102,8 @@ A species/nation that is are the willing servants/helpers/assistants of another 
 ---
 
 Alien race of benevolent microscopic organisms. This race reanimates dead bodies to move and speak. People are generally wary of them due purely to their reanimation of the dead, but they are generally good-natured and aware that their way of being is contrary to most others. Some agree to only animate bodies that have volunteered their body for the purpose of allowing this race a host.
+
+---
+
+A sentient star or planet.
+
