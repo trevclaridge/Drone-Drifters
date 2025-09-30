@@ -103,6 +103,9 @@ A species/nation that is are the willing servants/helpers/assistants of another 
 
 Alien race of benevolent microscopic organisms. This race reanimates dead bodies to move and speak. People are generally wary of them due purely to their reanimation of the dead, but they are generally good-natured and aware that their way of being is contrary to most others. Some agree to only animate bodies that have volunteered their body for the purpose of allowing this race a host.
 
+- When this species reanimates a body, they actually gain access to some or all of the host's memories. They keep this a secret from other races because they don't want this ability to be exploited for things like espionage. They also worry about their own individuality; when they gain memories, they also gain the host's emotional connections to those memories. This can result in the parasite developing emotional feelings concerning the host's former social circle--love for old relationships, malice for enemies, etc. The parasite actively needs to push these feelings down in order to feel like a separate individual from their host body.
+- A planet is overrun by a feral form of this parasite species. The sapient form protects this feral form from outsiders. Kind of like how humanity keeps away from primitive tribes.
+
 ---
 
 A sentient star or planet.
