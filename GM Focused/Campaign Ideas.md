@@ -110,3 +110,8 @@ Alien race of benevolent microscopic organisms. This race reanimates dead bodies
 
 A sentient star or planet.
 
+---
+
+Every sentient race of alien should have a secret or a number of secrets, in the same vein as the parasite secret above. I like mysterys, and each race having a secret helps facilitate that.
+
+
