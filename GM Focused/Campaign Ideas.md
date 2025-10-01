@@ -114,4 +114,15 @@ A sentient star or planet.
 
 Every sentient race of alien should have a secret or a number of secrets, in the same vein as the parasite secret above. I like mysterys, and each race having a secret helps facilitate that.
 
+---
+
+Start session 1 with a Drift Compatibility test for each of the Drifters.
+
+- Each Drifter gets their own little scene where they are asked questions and have their mentality accuity tested and their fortitude strained.
+- Have the first Drifter's test go very different to the others, leaving the players to wonder why that specific Drifter was treated so differently. The reality can be a number of things, including:
+    - That Drifter is being experimented on.
+    - That Drifter is really an android and they don't know it; humanity is attempting to test Drift technology on AI consciousnesses.
+    - something from that Drifter'e backstory
+- The GM should never directly acknowledge the differences in the test. When asked, they can just say something along the lines of: "I don't know what you're talking about."
+
 
