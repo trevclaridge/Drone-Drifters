@@ -31,6 +31,7 @@ Pilot Roles (classes)
 - Engineer (Repair and Salvage)
 - Tactician (buffs and additional activations)
 - Hacker/Saboteur (debuff enemies)
+- Cleaner (remove dice from systems)
 
 ---
 
