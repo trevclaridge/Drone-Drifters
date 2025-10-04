@@ -6,7 +6,7 @@ The drones that the players will use in space combat are defined with the follow
 2. **Size** - how big it is
 3. **Hull** - its health
 4. **Speed** - how far it can move or turn in a single activation
-5. **Armor** - how resistant it is to ballisitc weapons
+5. **Armor** - how resistant it is to ballistic weapons
 6. **Shields** - how resistant it is to energy weapons
 
 ## Class

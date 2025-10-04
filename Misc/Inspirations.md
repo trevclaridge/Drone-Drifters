@@ -15,4 +15,3 @@
 - Red Tails
 - [The Wildsea](https://www.myth.works/collections/the-wildsea-homepage)
 - [Destiny: Become Legend](https://www.tumblr.com/destinylegendrpg)
-

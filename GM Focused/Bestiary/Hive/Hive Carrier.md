@@ -28,4 +28,4 @@
   - *Masses of flesh, bone, and other organic material hang in space; when touched, they explode.*
   - Damage: 1d12 Ballistic
   - Range: 4
-  - Spawn 3 reguritations within range. When a ship or drone enters a hex adjacent to a regurgitation, the regurgitation explodes and deals the listed damage. After exploding, the regurgitation is removed.
+  - Spawn 3 regurgitations within range. When a ship or drone enters a hex adjacent to a regurgitation, the regurgitation explodes and deals the listed damage. After exploding, the regurgitation is removed.

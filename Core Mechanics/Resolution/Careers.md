@@ -10,14 +10,13 @@ Many mechanics throughout this rulebook will call for "rolling +Career" which in
 
 - Agricultural Worker/Laborer/Miner
 - Artisan/Craftsman/Mechanic
-- Artist/Composer/Performer
+- Artist/Composer/Entertainer
 - Aristocrat/Socialite
-- Banker/Beaurocrat
+- Banker/Bureaucrat
 - Charlatan/Con-person
 - Clergy/Theologian/Missionary
 - Diplomat/Official/Ambassador
 - Doctor/Surgeon
-- Escort/Sex Worker
 - Explorer/Traveler/Surveyor
 - Law Enforcer/Civil Servant/Justice Worker
 - Pirate/Criminal/Mercenary

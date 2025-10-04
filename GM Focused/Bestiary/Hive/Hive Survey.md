@@ -17,7 +17,7 @@
   - Damage: 2d6 Ballistic
   - Range: 5
 
-- **Abrassive Fleshlings** - □ □ □ □ □
+- **Abrasive Fleshlings** - □ □ □ □ □
 
   - *Micro secretions of Hive cells that attach to enemies and find their weaknesses.*
   - Damage: 2d4 Ballistic

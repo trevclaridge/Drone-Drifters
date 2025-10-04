@@ -3,7 +3,7 @@
 - mines
 - manuever 6, i.e full 360 spin
 - extra damage per Maneuver taken
-- extra damage per hex travelled
+- extra damage per hex traveled
 - shoot into the back of an enemy (*Where The Sun Don't Shine*)
 - shoot into the side of enemy
 - shoot into the front of an enemy

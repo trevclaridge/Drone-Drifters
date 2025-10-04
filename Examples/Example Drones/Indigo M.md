@@ -17,7 +17,7 @@
 	- Damage: 2d4 Ballistic
 	- Range: 4
 
-- **Sensor Group** - □ □ □ □ □
+- **Sensor Array** - □ □ □ □ □
 	- *A special module equipped with a range of common and specialty sensors and cameras.*
 	- Range: 6
 	- When this drone enters range of a combatant, it can learn one of the following:

@@ -12,7 +12,7 @@ Instead of making it so Drifters can only activate an un-activated drone each ro
 
 ---
 
-Drones of Size bigger than 1 take up as many hexes as their size value for the sake of silhouette and targetability. You just designate one hex of the footprint to be the front, which is what is used for moving and manuevering.
+Drones of Size bigger than 1 take up as many hexes as their size value for the sake of silhouette and targetability. You just designate one hex of the footprint to be the front, which is what is used for moving and maneuvering.
 
 ---
 
@@ -36,4 +36,3 @@ Pilot Roles (classes)
 ---
 
 There should be one or a few sports outlined in the book that Drifters can play in their downtime. Maybe it's a full on minigame.
-
