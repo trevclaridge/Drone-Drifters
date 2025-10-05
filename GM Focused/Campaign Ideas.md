@@ -143,3 +143,10 @@ A few reasons I find this interesting:
 - It can provide some drama as to where the Drifter is when the call comes and they must enter the Drift. They will fall unconscious in precarious or embarrassing situations.
 - Narrative possibilities for forcing a Drifter into the Drift.
 	- Important to remember not to take away a player's agency. This should really only be used to "show" the Drifter something, like a vision, or the ability to pilot a foreign drift-capable machine.
+
+---
+
+A protomolecule-esque alien/technology that diligently builds insane technologies for humanity. No one understands why this entity seems to perform this action specifically for humans; humanity had no hand it creating this entity, nor does this entity communicate in any way, so no one has any information on its origins or even its current projects. Humanity does not direct the entity--no one ever knows what it is going to build next, or even what it is building while in the midst of construction. The entity simply builds and builds, then moved on to the next project.
+
+Whenever the entity finishes a work, that work jumps humanity forward in technology by a not-insignificant degree. Humanity has taken to rely on this entity for technological advancement. While it constructs it's projects, humans station guards around the build sites to protect the entity, while scientists and researchers study the entity and its progress to try to understand and predict the current project's function.
+
