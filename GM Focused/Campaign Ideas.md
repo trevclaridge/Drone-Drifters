@@ -150,3 +150,7 @@ A protomolecule-esque alien/technology that diligently builds insane technologie
 
 Whenever the entity finishes a work, that work jumps humanity forward in technology by a not-insignificant degree. Humanity has taken to rely on this entity for technological advancement. While it constructs it's projects, humans station guards around the build sites to protect the entity, while scientists and researchers study the entity and its progress to try to understand and predict the current project's function.
 
+---
+
+When Earth is destroyed, humanity is invited by a sympathetic alien race to settle a planet in their home system. Their former home planet was also destroyed in ages past and they feel a kinship to humanity fue to their similar histories. This race can be a incredible ally to humanity should humanity have the wisdom to trust them.
+
