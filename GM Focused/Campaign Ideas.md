@@ -125,6 +125,14 @@ Start session 1 with a Drift Compatibility test for each of the Drifters.
     - something from that Drifter'e backstory
 - The GM should never directly acknowledge the differences in the test. When asked, they can just say something along the lines of: "I don't know what you're talking about."
 
+Charley had a great idea for what the test might look like: basically it is just the candidate Drifts to an object and must observe their own inanimate/catatonic body. For some reason, only certain humans can handle this sight of themselves, so that is used to measure true Drift Compatibility.
+
+Some additional cool ideas I had inspired by this:
+
+- The test could be named after a famous Drift pilot that came up with it. This could be Nova as a nod to Charley and her characters (Nova in D:BL and Overclocked both develop human-machine consciousness transfer technology.
+- There could be like a strict training regime before this final test, in an effort to protect those who might not be able to pass, as failing the test means severe permanent mental damage. Those who try the test are doing it at great risk to themselves.
+- The test could also just be an endurance test for potential Drifters in that it forces them to pilot an object that is entirely incapable of moving. They feels incredibly claustrophobic and agency-killing to the Drifters--it is important to know whether they will be able to handle that kind of stress, especially as they may be piloting a drone when the drone is destroyed or loses power, effectively trapping them in a similar situation to that of the test.
+
 ---
 
 The Drift technology is a neural implant that must be surgically installed to the Drifters' brain stems. When a Drifter pilot enters the Drift, their body goes limp as they befall catatonia and slip into unconsciousness.
