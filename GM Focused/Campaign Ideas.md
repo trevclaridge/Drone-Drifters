@@ -153,4 +153,3 @@ Whenever the entity finishes a work, that work jumps humanity forward in technol
 ---
 
 When Earth is destroyed, humanity is invited by a sympathetic alien race to settle a planet in their home system. Their former home planet was also destroyed in ages past and they feel a kinship to humanity fue to their similar histories. This race can be a incredible ally to humanity should humanity have the wisdom to trust them.
-
