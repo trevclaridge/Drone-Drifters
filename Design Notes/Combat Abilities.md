@@ -43,3 +43,4 @@
     - round-based
     - recharge rolls (recharges on a roll of 5-6, like a 5e breath weapons)
 - clear dice out of drone systems
+- steal dice from players' pools (enemies only)
