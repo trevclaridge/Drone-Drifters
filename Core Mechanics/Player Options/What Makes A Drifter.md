@@ -5,6 +5,6 @@
 - Pronouns
 - Callsign
 - Careers
-- Morale/Cohesion
+- Cohesion
 - Stars (Boons)
 - Scars (Flaws)
