@@ -1,12 +1,14 @@
 # Example Drifter 2
 
-## Name
+## Name (pronouns):
 
-## Callsign
+## Callsign:
 
 ## Health: □ □ □ □ □ □ □ □ □
 
-## Launch (Cost: 1)
+## Cohesion: □ □ □
+
+## Drift (Cost: 1)
 
 ## Stars
 
