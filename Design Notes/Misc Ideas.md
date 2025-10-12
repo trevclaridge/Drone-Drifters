@@ -44,3 +44,7 @@ Whenever a Drifter activates a weapons system, they may choose to take any amoun
 ---
 
 Drifters gain Scars when they fall below specific thresholds in Health
+
+---
+
+Every combat has a countdown (or a numbering system to keep track of the current round). To emphasize the danger of using Drift technology, Drifters take damage as the combat goes on longer and longer.
