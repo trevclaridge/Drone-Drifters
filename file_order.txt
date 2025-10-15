@@ -1,5 +1,6 @@
 README.md
 "Core Mechanics/Resolution/Task Roll.md"
+"Core Mechanics/Resolution/Cohesion.md"
 "Core Mechanics/Player Options/What Makes A Drifter.md"
 "Core Mechanics/Resolution/Careers.md"
 "Core Mechanics/Drone Combat/Drone Statistics.md"

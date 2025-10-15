@@ -153,3 +153,11 @@ Whenever the entity finishes a work, that work jumps humanity forward in technol
 ---
 
 When Earth is destroyed, humanity is invited by a sympathetic alien race to settle a planet in their home system. Their former home planet was also destroyed in ages past and they feel a kinship to humanity fue to their similar histories. This race can be a incredible ally to humanity should humanity have the wisdom to trust them.
+
+---
+
+A malevolent entity regards humanity or some allied alien species the same way real life humans regard cockroaches: disdain and annoyance. Try as one might to eliminate all cockroaches you see, you will never completely eradicate all of them from the world.
+
+Humanity (or an alien ally) has been routinely and systematically destroyed by this entity throughout the centuries of the universe, but we have the incredibly infuriating habit of surviving that destruction and recomposing our civilization, likely without the memories of our troubled history.
+
+The entity notices our presence and comes to destroy us once more, this time hoping to truly finish us off.

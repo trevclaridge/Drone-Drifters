@@ -36,3 +36,15 @@ Pilot Roles (classes)
 ---
 
 There should be one or a few sports outlined in the book that Drifters can play in their downtime. Maybe it's a full on minigame.
+
+---
+
+Whenever a Drifter activates a weapons system, they may choose to take any amount of Mental damage (damage directly to the Drifter); the amount of Mental damage taken can be added to the weapon's damage against its target
+
+---
+
+Drifters gain Scars when they fall below specific thresholds in Health
+
+---
+
+Every combat has a countdown (or a numbering system to keep track of the current round). To emphasize the danger of using Drift technology, Drifters take damage as the combat goes on longer and longer.
