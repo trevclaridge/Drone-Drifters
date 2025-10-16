@@ -161,3 +161,10 @@ A malevolent entity regards humanity or some allied alien species the same way r
 Humanity (or an alien ally) has been routinely and systematically destroyed by this entity throughout the centuries of the universe, but we have the incredibly infuriating habit of surviving that destruction and recomposing our civilization, likely without the memories of our troubled history.
 
 The entity notices our presence and comes to destroy us once more, this time hoping to truly finish us off.
+
+---
+
+The entire universe is a simulation inside the Oldest Light's cosmic mind. 
+
+- It's implied that the Older Lights are aware of this, but that they keep this information to themselves.
+- Have The Between-esque cutaways where players can describe little slice-of-life moments going on in the universe far away from the player characters. Maybe it awards a Cohesion or something. Allows the players to do some creating in the infinity of space, without outright giving them control over the setting of the campaign.
