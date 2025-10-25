@@ -51,12 +51,19 @@ Every combat has a countdown (or a numbering system to keep track of the current
 
 ---
 
-When a drone takes damage with any active pilots, the damage is taken a system at random. Each system (including the Hull) is given a number and the most suitable die for the number of systems is rolled to determine the hit target. 
+When a drone takes damage with any active pilots, the damage is taken a system at random. Each system (including the Hull) is given a number and the most suitable die for the number of systems is rolled to determine the hit target.
 
-- A Star that allows a Drifter to allocate damage for the last drone they piloted in addition to the one they are currently pilotting.
-- What happens to overflow damage? 
+- A Star that allows a Drifter to allocate damage for the last drone they piloted in addition to the one they are currently piloting.
+- What happens to overflow damage?
     - It is lost and doesn't affect any further systems. Possibly this is a special passive trait to buy for a drone.
     - It is applied to the Hull.
     - It is divided amongst remaining systems.
 - If the drone has an odd number of systems, the die used will have at least one number that doesn't match a system. This could just be a reroll until a proper result is given, or the attack could miss, which could be a tactical consideration.
 
+---
+
+Make a distinction between **Wrecked** and **Destroyed**. Wrecked means that the combatant can no longer takes actions, but can be Repaired enough to be capable of acting again, or it can be Salvaged for additional Advancement Points. Destroyed means incapable of taking actions, being Repaired, or being Salvaged.
+
+- Perhaps Wrecked acts like a countdown, i.e. "Wrecked 2" means it has two more rounds before it becomes Destroyed.
+	- Drifters can attempt to Stabilize a Wrecked drone, halting the Wrecked countdown and preventing it from being destroyed; stabilized combatants with no Hull remaining are still considered Wrecked, meaning they cannot take actions, but can be Repaired or Salvaged.
+	- Certain combatants may explode when the Wrecked countdown reaches zero and the combatant becomes Destroyed.
