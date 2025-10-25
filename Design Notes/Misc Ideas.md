@@ -48,3 +48,15 @@ Drifters gain Scars when they fall below specific thresholds in Health
 ---
 
 Every combat has a countdown (or a numbering system to keep track of the current round). To emphasize the danger of using Drift technology, Drifters take damage as the combat goes on longer and longer.
+
+---
+
+When a drone takes damage with any active pilots, the damage is taken a system at random. Each system (including the Hull) is given a number and the most suitable die for the number of systems is rolled to determine the hit target. 
+
+- A Star that allows a Drifter to allocate damage for the last drone they piloted in addition to the one they are currently pilotting.
+- What happens to overflow damage? 
+    - It is lost and doesn't affect any further systems. Possibly this is a special passive trait to buy for a drone.
+    - It is applied to the Hull.
+    - It is divided amongst remaining systems.
+- If the drone has an odd number of systems, the die used will have at least one number that doesn't match a system. This could just be a reroll until a proper result is given, or the attack could miss, which could be a tactical consideration.
+
