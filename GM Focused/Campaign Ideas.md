@@ -164,7 +164,14 @@ The entity notices our presence and comes to destroy us once more, this time hop
 
 ---
 
-The entire universe is a simulation inside the Oldest Light's cosmic mind. 
+The entire universe is a simulation inside the Oldest Light's cosmic mind.
 
 - It's implied that the Older Lights are aware of this, but that they keep this information to themselves.
 - Have The Between-esque cutaways where players can describe little slice-of-life moments going on in the universe far away from the player characters. Maybe it awards a Cohesion or something. Allows the players to do some creating in the infinity of space, without outright giving them control over the setting of the campaign.
+
+---
+
+The Size of a combatant indicates how many miniature black holes are used in its engine. So an "H4" engine has 4 black holes.
+
+- I imagine one of these engines needs at least 2 black holes to work, so this doesn't exactly line up with the current Size increments, given that most combatants are Size 1. Perhaps, the average Size of combatants should be bumped up to 2, while Size 1 is reserved for smaller shuttle-craft that use a more stable and conventional form of power.
+- Inspired by Void Explorers
