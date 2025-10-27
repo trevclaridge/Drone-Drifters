@@ -32,3 +32,4 @@ README.md
 "Design Notes/Alien Aesthetics.md"
 "Design Notes/GM Ideas.md"
 "Design Notes/Combat Abilities.md"
+"Design Notes/Stats.md"
