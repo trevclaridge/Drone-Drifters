@@ -175,3 +175,9 @@ The Size of a combatant indicates how many miniature black holes are used in its
 
 - I imagine one of these engines needs at least 2 black holes to work, so this doesn't exactly line up with the current Size increments, given that most combatants are Size 1. Perhaps, the average Size of combatants should be bumped up to 2, while Size 1 is reserved for smaller shuttle-craft that use a more stable and conventional form of power.
 - Inspired by Void Explorers
+
+---
+
+One of the main spacefaring species in the galaxy knew beforehand that an attack on Earth was imminent, but they chose to give no warning as they believed nothing could be done to stop it.
+ 
+- Possibly even a sect of humanity knew, but choose not to give warning for the same reasons (or both knee had differing reasons for not sharing the info).
