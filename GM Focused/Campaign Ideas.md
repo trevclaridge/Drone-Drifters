@@ -181,3 +181,7 @@ The Size of a combatant indicates how many miniature black holes are used in its
 One of the main spacefaring species in the galaxy knew beforehand that an attack on Earth was imminent, but they chose to give no warning as they believed nothing could be done to stop it.
  
 - Possibly even a sect of humanity knew, but choose not to give warning for the same reasons (or both knee had differing reasons for not sharing the info).
+
+---
+
+The Church of the Dark. A cult intent on bringing on the end of the universe. They believe the universe is some simulation or calculation in the process of being made; when the universe ends, the calculation will be complete and the true life begins.
