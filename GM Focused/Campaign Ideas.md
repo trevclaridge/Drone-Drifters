@@ -179,7 +179,7 @@ The Size of a combatant indicates how many miniature black holes are used in its
 ---
 
 One of the main spacefaring species in the galaxy knew beforehand that an attack on Earth was imminent, but they chose to give no warning as they believed nothing could be done to stop it.
- 
+
 - Possibly even a sect of humanity knew, but choose not to give warning for the same reasons (or both knee had differing reasons for not sharing the info).
 
 ---
