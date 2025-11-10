@@ -45,4 +45,6 @@
 - clear dice out of drone systems
 - steal dice from players' pools (enemies only)
 - Hunter Seeker drones, miniature drones that explode on impact with a combatant. They have their own movement speed and can be moved by the primary drone's pilot when this system is activated. The impact does a lot of damage, but the movement speed is pretty low. A downtime action replenishes any used drones.
+- attacks that can ricochet off of combatants to shoot at angles
+
 
