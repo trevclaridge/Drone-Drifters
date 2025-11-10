@@ -6,5 +6,6 @@
 - Callsign
 - Careers
 - Cohesion
+- Stamina (Health)
 - Stars (Boons)
 - Scars (Flaws)
