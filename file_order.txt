@@ -3,6 +3,7 @@ README.md
 "Core Mechanics/Resolution/Cohesion.md"
 "Core Mechanics/Player Options/What Makes A Drifter.md"
 "Core Mechanics/Resolution/Careers.md"
+"Core Mechanics/Advancement.md"
 "Core Mechanics/Drone Combat/Drone Statistics.md"
 "Core Mechanics/Drone Combat/Drone Classes.md"
 "Core Mechanics/Drone Combat/Drone Sheet.md"
