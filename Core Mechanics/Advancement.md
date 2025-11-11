@@ -27,7 +27,7 @@ The GM may choose to award additional Advancements for whatever reasons they wis
 
 **Systems:** Each system will list its own Advancement cost. Systems can be built even if no drones can currently accommodate their installation. Downtime actions can be used to swap and reconfigure a drones' systems.
 
-**System Cost**: 5 Advancements can be spent to reduce a system's Drift Dice cost by 1. System costs cannot be reduced below 1.
+**System Cost**: 5 Advancements can be spent to reduce a system's Drift Dice cost by 1. Each system will identify its unique cost floor, a value that its cost cannot be lowered below.
 
 **Drones:** New drones can be built from scratch. Allocating Advancements to a new drone represents adding a drone to the fleet; this drone will have all the base statistics for its class and no installed systems. Each drone class lists the Advancements necessary to build it.
 
