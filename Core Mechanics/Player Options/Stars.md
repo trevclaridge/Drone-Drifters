@@ -29,3 +29,7 @@
 ---
 
 **Tactician**: You are adept at understanding and directing the flow of battle. You may Assist another drifter without needing to share a drone with them.
+
+---
+
+**Clean Freak**: Please put your shoes on the rack. When you Drift into a new drone, you may immediately Clear a Drift Die from one of its systems without needing to spend a Cohesion.
