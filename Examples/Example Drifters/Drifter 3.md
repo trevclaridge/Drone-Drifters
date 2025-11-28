@@ -4,7 +4,7 @@
 
 ## Callsign:
 
-## Stamina: □ □ □ □ □ □ □ □ □
+## Stamina: □ □ □ □ □ □ □ □ □ □
 
 ## Cohesion: □ □ □
 
