@@ -48,3 +48,7 @@
 - attacks that can ricochet off of combatants to shoot at angles
 - ability that allows splitting a Drift Die value between other Drift Dice (i.e. a 2 can turn two 5s into two 6s)
 - ability that allows combing Drift Dice into a single value (i.e. 2 + 3 makes 5)
+- if the target's Hull is below X
+- if the target's Shields/Armor value is below X
+- reduce a targets Shields/Armor
+- zero gravity Star
