@@ -8,7 +8,7 @@ Cohesion can be used to:
 - gain advantage on a Task roll
 - give advantage to another Drifter on a Task roll
 - clear a drone's system of an allocated Drift Die
-- regain 1d6 Health
+- regain 1 Stamina
 
 Drifters gain Cohesion when:
 
