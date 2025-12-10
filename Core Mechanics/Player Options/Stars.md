@@ -77,3 +77,7 @@
 ---
 
 **Endurant**: You could totally run a 5k. You gain an additional point of Stamina when taking the Train downtime action, and your maximum Stamina increased from 10 to 20. If you pick this Star at Drifter creation, you start the game with 2 additional points of Stamina.
+
+---
+
+**Supportive Parent**: You very proud of your hard-working chilluns. You can award 2 Cohesion for good roleplay each session instead of 1.
