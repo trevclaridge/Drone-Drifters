@@ -38,3 +38,4 @@ Some examples:
 - An enamel pin
 - A fidget toy
 - A patch
+- A poker chip
