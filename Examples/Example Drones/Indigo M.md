@@ -31,5 +31,5 @@
 		- the number of the target's systems that are not wrecked
 
 - **Gyro Thrusters** - □ □ □
-	- *Small engine thrusters cover this drone on all sides, allowing it glide through space with ease.*
+	- *Small engine thrusters cover this drone on all sides, allowing it to glide through space with ease.*
 	- This drone can move into any adjacent hex without needing to face it.
