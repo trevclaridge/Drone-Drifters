@@ -4,7 +4,7 @@ Cohesion is a resource that Drifters can spend to gain the upper hand in battles
 
 Cohesion can be used to:
 
-- reroll a Drift Die
+- reroll a die
 - gain advantage on a Task roll
 - give advantage to another Drifter on a Task roll
 - clear a drone's system of an allocated Drift Die
