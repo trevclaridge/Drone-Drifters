@@ -67,3 +67,8 @@ Make a distinction between **Wrecked** and **Destroyed**. Wrecked means that the
 - Perhaps Wrecked acts like a countdown, i.e. "Wrecked 2" means it has two more rounds before it becomes Destroyed.
 	- Drifters can attempt to Stabilize a Wrecked drone, halting the Wrecked countdown and preventing it from being destroyed; stabilized combatants with no Hull remaining are still considered Wrecked, meaning they cannot take actions, but can be Repaired or Salvaged.
 	- Certain combatants may explode when the Wrecked countdown reaches zero and the combatant becomes Destroyed.
+
+---
+
+Bond system that allows pairs of Drifters to get better at working together, but comes at some sort of cost, like if one gets hurt they both get hurt. Encourages roleplay while also encouraging drama as it may be mechanically better to keep people at a distance.
+
