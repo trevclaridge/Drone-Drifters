@@ -8,3 +8,7 @@
 - Facilitator
 - Referee
 - Maestro (Drifter Maestro)
+- The Network
+- The Architect
+- The Designer
+- The Amoeba
