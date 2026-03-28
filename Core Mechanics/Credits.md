@@ -1,4 +1,4 @@
-# Advancement
+# Credits
 
 After every combat encounter, the GM will award each player a number of Credits, usually equal to the sum of the Size values of all destroyed enemy combatants.
 
