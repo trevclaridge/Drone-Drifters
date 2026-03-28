@@ -13,7 +13,7 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Armor           | 3       |
 | Shields         | 3       |
 
-Systems with the *Weapon* keyword installed on this drone have their facing changed to Any.
+When this drone uses the Move action, it can move into any adjacent hex, regardless of facing.
 
 ## Cruiser
 
@@ -26,6 +26,8 @@ Systems with the *Weapon* keyword installed on this drone have their facing chan
 | Armor           | 5       |
 | Shields         | 3       |
 
+Systems with the *Weapon* keyword installed on this drone have their facing changed to Any.
+
 ## Destroyer
 
 | Stat            | Value     |
@@ -36,6 +38,8 @@ Systems with the *Weapon* keyword installed on this drone have their facing chan
 | Speed           | 7         |
 | Armor           | 5         |
 | Shields         | 4         |
+
+Allied drones with 5 hexes of this drone roll attack damage with an additional 2d6.
 
 ## Carrier
 
@@ -48,6 +52,8 @@ Systems with the *Weapon* keyword installed on this drone have their facing chan
 | Armor           | 5       |
 | Shields         | 6       |
 
+Allied drones adjacent to this drone can *Dock*, removing them from the battlefield. A Docked drone cannot target any other combatants with its systems, and cannot be targeted by attacks or any other effects besides repairs. A drone remains Docked until a Drifter uses the Move action while piloting it, at which point it is added back to the battlefield, positioned in a hex adjacent to this drone, before making making its movement.
+
 ## Artillery
 
 | Stat            | Value     |
@@ -58,6 +64,8 @@ Systems with the *Weapon* keyword installed on this drone have their facing chan
 | Speed           | 5         |
 | Armor           | 5         |
 | Shields         | 3         |
+
+Systems with the *Weapon* keyword installed on this drone have their ranges extended by +10.
 
 ## Survey
 
@@ -83,6 +91,8 @@ When a Drifter uses the Scan action while piloting this drone, the target gains 
 | Armor           | 3      |
 | Shields         | 3      |
 
+Once per activation by a Drifter, when this drone is adjacent to another combatant, it can repair 2d6 points of damage spread across the combatant's Systems and Hull, in any configuration of the Drifter's choosing.
+
 ## Miner
 
 | Stat            | Value |
@@ -93,6 +103,8 @@ When a Drifter uses the Scan action while piloting this drone, the target gains 
 | Speed           | 6     |
 | Armor           | 5     |
 | Shields         | 3     |
+
+This drone is immune to Area of Effect attacks.
 
 ## Hauler
 
@@ -105,6 +117,8 @@ When a Drifter uses the Scan action while piloting this drone, the target gains 
 | Armor           | 4      |
 | Shields         | 3      |
 
+When using the Move action, this drone can drag adjacent combatants along with it during its movement. Dragged combatants remain in the same adjacency configuration during the move, disregarding any Maneuvers made by this drone.
+
 ## Personnel Transport
 
 | Stat            | Value               |
@@ -115,6 +129,8 @@ When a Drifter uses the Scan action while piloting this drone, the target gains 
 | Speed           | 7                   |
 | Armor           | 3                   |
 | Shields         | 3                   |
+
+This drone can accommodate any number of Drifter pilots, regardless of this drone's Size.
 
 ## Luxury Liner
 

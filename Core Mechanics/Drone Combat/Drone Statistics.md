@@ -15,7 +15,7 @@ Some time ago, the bureaucrats decided that every ship and drone manufactured by
 
 ## Size
 
-Something something, the harder they fall. Anyways, it's a lot easier to hit a big ship than a tiny one. A drone's Size is what tells you how big its physical silhouette will be in the context of a space battle. Many individual modules, like weapons systems or sensors, will behave differently when targeting ships of different sizes.
+Something something, the harder they fall. Anyways, it's a lot easier to hit a big ship than a tiny one. A drone's Size is what tells you how big its physical silhouette will be in the context of a space battle. A drone's Size also determines how many Drifters can be piloting it at the same time (before any upgrades). Many individual modules, like weapons systems or sensors, will behave differently when targeting ships of different sizes.
 
 ## Hull
 
