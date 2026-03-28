@@ -13,6 +13,8 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Armor           | 3       |
 | Shields         | 3       |
 
+Systems with the *Weapon* keyword installed on this drone have their facing changed to Any.
+
 ## Cruiser
 
 | Stat            | Value   |
@@ -67,6 +69,8 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Speed           | 10     |
 | Armor           | 3      |
 | Shields         | 3      |
+
+When a Drifter uses the Scan action while piloting this drone, the target gains the *Surveyed* condition. The next attack made against a combatant with the Surveyed condition ignores Shields and Armor.
 
 ## Tender
 

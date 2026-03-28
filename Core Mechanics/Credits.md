@@ -28,7 +28,7 @@ The GM may choose to award additional Credits for whatever reasons they wish.
 
 **Systems:** Each system will list its own Credit cost. Systems can be built even if no drones can currently accommodate their installation. Downtime actions can be used to swap and reconfigure a drone's systems.
 
-**Activation Cost**: 5 Credits can be spent to reduce a system's Activation Cost by 1. Each system will also identify its unique Activation Cost Floor, a value that represents the minimum the system's Activation Cost can be lowered to.
+**Activation Cost**: 5 Credits can be spent to reduce a system's Activation Cost by 1. Each system will also identify its unique Activation Cost Floor, a value that represents the minimum the system's Activation Cost can be lowered to using this method.
 
 **Drones:** New drones can be built from scratch. Allocating Credits to a new drone represents adding a drone to the fleet; this drone will have all the base statistics for its class and no installed systems. Each drone class lists the Credits necessary to build it.
 
