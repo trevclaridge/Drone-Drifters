@@ -2,7 +2,7 @@
 
 ## Standard Systems
 
-**Ion Cannon** - □ □
+**Ion Cannon** - □ □ □ □
 
 *A straight line beam of pure energy, ripping holes in space on the way to its target.*
 
@@ -16,7 +16,7 @@
 
 ---
 
-**Ye Olde Machine Guns (Front)** - □ □ □ □
+**Ye Olde Machine Guns** - □ □ □ □
 
 *If it ain't broke. Bog-standard high velocity projectiles that tear things up.*
 
