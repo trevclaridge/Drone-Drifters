@@ -7,6 +7,7 @@ Below is a detailed view of how standard drones of each Class are stat-ed.
 | Stat            | Value   |
 | --------------- | ------- |
 | Class           | Fighter |
+| Credits		  | 8		|
 | Size            | 1       |
 | Hull            | 4       |
 | Speed           | 9       |
@@ -20,6 +21,7 @@ When this drone uses the Move action, it can move into any adjacent hex, regardl
 | Stat            | Value   |
 | --------------- | ------- |
 | Class           | Cruiser |
+| Credits		  | 12		|
 | Size            | 1       |
 | Hull            | 4       |
 | Speed           | 7       |
@@ -33,6 +35,7 @@ Systems with the *Weapon* keyword installed on this drone have their facing chan
 | Stat            | Value     |
 | --------------- | --------- |
 | Class           | Destroyer |
+| Credits		  | 14		  |
 | Size            | 2         |
 | Hull            | 5         |
 | Speed           | 7         |
@@ -46,6 +49,7 @@ Allied drones with 5 hexes of this drone roll attack damage with an additional 2
 | Stat            | Value   |
 | --------------- | ------- |
 | Class           | Carrier |
+| Credits		  | 18		|
 | Size            | 3       |
 | Hull            | 6       |
 | Speed           | 6       |
@@ -59,6 +63,7 @@ Allied drones adjacent to this drone can *Dock*, removing them from the battlefi
 | Stat            | Value     |
 | --------------- | --------- |
 | Class           | Artillery |
+| Credits		  | 12		  |
 | Size            | 2         |
 | Hull            | 5         |
 | Speed           | 5         |
@@ -72,6 +77,7 @@ Systems with the *Weapon* keyword installed on this drone have their ranges exte
 | Stat            | Value  |
 | --------------- | ------ |
 | Class           | Survey |
+| Credits		  | 16	   |
 | Size            | 1      |
 | Hull            | 4      |
 | Speed           | 10     |
@@ -85,6 +91,7 @@ When a Drifter uses the Scan action while piloting this drone, the target gains 
 | Stat            | Value  |
 | --------------- | ------ |
 | Class           | Tender |
+| Credits		  | 16     |
 | Size            | 1      |
 | Hull            | 3      |
 | Speed           | 7      |
@@ -98,6 +105,7 @@ Once per activation by a Drifter, when this drone is adjacent to another combata
 | Stat            | Value |
 | --------------- | ----- |
 | Class           | Miner |
+| Credits		  | 18    |
 | Size            | 2     |
 | Hull            | 4     |
 | Speed           | 6     |
@@ -111,6 +119,7 @@ This drone is immune to Area of Effect attacks.
 | Stat            | Value  |
 | --------------- | ------ |
 | Class           | Hauler |
+| Credits		  | 14	   |
 | Size            | 2      |
 | Hull            | 3      |
 | Speed           | 6      |
@@ -124,6 +133,7 @@ When using the Move action, this drone can drag adjacent combatants along with i
 | Stat            | Value               |
 | --------------- | ------------------- |
 | Class           | Personnel Transport |
+| Credits		  | 12				    |
 | Size            | 2                   |
 | Hull            | 4                   |
 | Speed           | 7                   |
@@ -137,6 +147,7 @@ This drone can accommodate any number of Drifter pilots, regardless of this dron
 | Stat            | Value        |
 | --------------- | ------------ |
 | Class           | Luxury Liner |
+| Credits		  | 24			 |
 | Size            | 4            |
 | Hull            | 5            |
 | Speed           | 5            |
@@ -148,6 +159,7 @@ This drone can accommodate any number of Drifter pilots, regardless of this dron
 | Stat            | Value       |
 | --------------- | ----------- |
 | Class           | Colony Seed |
+| Credits		  | 28			|
 | Size            | 5           |
 | Hull            | 6           |
 | Speed           | 5           |
