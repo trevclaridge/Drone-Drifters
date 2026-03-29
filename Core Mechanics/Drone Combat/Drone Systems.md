@@ -1,5 +1,63 @@
 # Drone Systems
 
+## Standard Systems
+
+**Ion Cannon** - □ □
+
+*A straight line beam of pure energy, ripping holes in space on the way to its target.*
+
+- Activation Cost: 5
+- Activation Cost Floor: 3
+- Credit Cost: 7
+- Damage: 2d6+dX Energy
+- Range: 5
+- Keywords: Weapon
+- Facing: Front
+
+---
+
+**Ye Olde Machine Guns (Front)** - □ □ □ □
+
+*If it ain't broke. Bog-standard high velocity projectiles that tear things up.*
+
+- Activation Cost: 5
+- Activation Cost Floor: 3
+- Credit Cost: 7
+- Damage: 2d6+dX Ballistic
+- Range: 5
+- Keywords: Weapon
+- Facing: Front
+
+---
+
+**Spin Shell Ordinance** - □ □ □
+
+*Corkscrew-shaped projectiles, 3 meters wide, flung through space in a rapid spin, meant to drill through enemy craft.*
+
+- Activation Cost: 3
+- Activation Cost Floor: 2
+- Credit Cost: 6
+- Damage: 2d4+dX Ballistic
+- Range: 6
+- Keywords: Weapon
+- Facing: Sides
+
+---
+
+**Reinvigorator Cannons** - □ □ □
+
+*Thinly targeted beams that heat inorganic material to level of plasma.*
+
+- Activation Cost: 3
+- Activation Cost Floor: 2
+- Credit Cost: 6
+- Damage: 2d4+dX Energy
+- Range: 6
+- Keywords: Weapon
+- Facing: Sides
+
+---
+
 **Corpo Torpedo™** - □ □ □ □ □
 
 *A multi-tiered missile that eats money.*
@@ -7,27 +65,26 @@
 - Activation Cost: 6
 - Activation Cost Floor: 4
 - Credit Cost: 9
-- Damage: 1d6 Ballistic
+- Damage: 1d6+dX Ballistic
 - Range: 6
+- Keywords: Weapon
+- Facing: Front
 - When a Drifter actives this system, they can choose to spend a number of Credits to temporarily increase the tier of their subscription license to the torpedo manufacturing service, unlocking the high-level explosive features of their Corpo Torpedo™. For every two Credits spent, add an additional d6 to the activation's damage role. The Drifter must declare how many Credits they are spending before rolling for damage.
 
 ---
 
-**Ion Cannon (Front)** - □ □
+**Signal-Seeking Missiles** - □ □ □ □
 
-*A straight line beam of pure energy, ripping holes in space on the way to its target.*
+*These missiles are able to track and follow a battery of artificial signals.*
 
-- Damage: 2d6 Energy
+- Activation Cost: 5
+- Activation Cost Floor: 3
+- Credit Cost: 9
+- Damage: 2d6+dX Ballistic
 - Range: 5
-
----
-
-**Spin Shell Ordinance (Sides)** - □ □ □
-
-*Corkscrew-shaped projectiles, 3 meters wide, flung through space in a rapid spin, meant to drill through enemy craft.*
-
-- Damage: 2d4 Ballistic
-- Range: 6
+- Keywords: Weapon
+- Facing: Sides
+- The projectiles of this weapon can target enemies 1 hex to either side of the standard cone of side-fire weaponry.
 
 ---
 
@@ -35,26 +92,19 @@
 
 *Strong metal alloy welded over areas of this drone often exposed to damage.*
 
-- While this system is operable, this drone has +3 Armor.
+- Credit Cost: 5
+- Keywords: Upgrade
+- While this system is operable, this drone has +6 Armor.
 
 ---
 
-**Signal-Seeking Missiles (Sides)** - □ □ □ □
+**Pulse Strengtheners** - □ □ □
 
-*These missiles are able to track and follow a battery of artificial signals.*
+*Relays and amplifiers that boost a drone's built in energy protections.*
 
-- Damage: 2d4 Ballistic
-- Range: 5
-- The projectiles of this weapon can target enemies 1 hex to either side of the standard cone of side-fire weaponry.
-
----
-
-**Archaeological Needler** - □ □ □
-
-*Short bursts of thin projectiles meant to move debris out of the line of sight of visual sensors.*
-
-- Damage: 2d4 Ballistic
-- Range: 4
+- Credit Cost: 5
+- Keywords: Upgrade
+- While this system is operable, this drone has +6 Shields.
 
 ---
 
@@ -63,6 +113,8 @@
 *A special module equipped with a range of common and specialty sensors and cameras.*
 
 - Range: 6
+- Credit Cost: 7
+- Keywords: Upgrade
 - When this drone enters range of a combatant, it can learn one of the following:
 	- the target's Class
 	- the target's Size
@@ -79,33 +131,33 @@
 
 *Small engine thrusters cover this drone on all sides, allowing it to glide through space with ease.*
 
+- Credit Cost: 10
+- Keywords: Upgrade
 - This drone can move into any adjacent hex without needing to face it.
 
 ---
 
-**Ye Olde Machine Guns (Front)** - □ □ □ □
-
-*If it ain't broke. Bog-standard high velocity projectiles that tear things up.*
-
-- Damage: 2d6 Ballistic
-- Range: 4
-
----
-
-**Reinvigorator Cannons (Sides)** - □ □ □
-
-*Thinly targeted beams that heat inorganic material to level of plasma.*
-
-- Damage: 2d6 Energy
-- Range: 6
-
----
-
-**Flickwhip Net** - □ □ □
+**Flickwhip Net** - □ □ □ □ □
 
 *A thin, flexible membrane that gathers stray electrons from the environment as it moves through space.*
 
-- When this drone maneuvers 6 in a single activation, it gains dX Shields until the beginning of the next round.
+- Activation Cost: 1
+- Activation Cost Floor: 1
+- Credit Cost: 8
+- Keywords: Upgrade
+- When this system is activated, the owning drone gains dX Shields until the beginning of the next round.
+
+---
+
+**Haze Collapsers** - □ □ □ □ □
+
+*An electromagnetic waveform that gathers a battlefield's debris haze into a protective cocoon around a drone.*
+
+- Activation Cost: 1
+- Activation Cost Floor: 1
+- Credit Cost: 8
+- Keywords: Upgrade
+- When this system is activated, the owning drone gains dX Armor until the beginning of the next round.
 
 ---
 
@@ -165,3 +217,14 @@
 *The Halsey Hauler uses its own fuel cargo to fly; a severe design flaw.*
 
 - When this system is wrecked, the Halsey Hauler cannot move (can still maneuver). Repairing this system also repairs the Halsey Hauler's ability to move.
+
+## Saved
+
+**Archaeological Needler** - □ □ □
+
+*Short bursts of thin projectiles meant to move debris out of the line of sight of visual sensors.*
+
+- Damage: 2d4 Ballistic
+- Range: 4
+
+---
