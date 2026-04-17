@@ -76,4 +76,12 @@ Bond system that allows pairs of Drifters to get better at working together, but
 
 Make the entire book basically styled as an email to the Drifters meant to explain the concepts of Drone Drifters, sent by a random that is an expert in Drift technology, which is an esoteric and unusual technology for the time period.
 
+---
+
+Drone Divers - eldrich sea submarines
+Drone Drivers - mad max cars in tournaments
+Drone Delvers - fantasy heartbreaker, dungeon crawling
+
+
+
 
