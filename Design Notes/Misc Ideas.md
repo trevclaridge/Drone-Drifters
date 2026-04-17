@@ -72,3 +72,8 @@ Make a distinction between **Wrecked** and **Destroyed**. Wrecked means that the
 
 Bond system that allows pairs of Drifters to get better at working together, but comes at some sort of cost, like if one gets hurt they both get hurt. Encourages roleplay while also encouraging drama as it may be mechanically better to keep people at a distance.
 
+---
+
+Make the entire book basically styled as an email to the Drifters meant to explain the concepts of Drone Drifters, sent by a random that is an expert in Drift technology, which is an esoteric and unusual technology for the time period.
+
+
