@@ -82,6 +82,7 @@ Make the entire book basically styled as an email to the Drifters meant to expla
     - a WikiHow article, maybe for downtime actions (8 Things to Do When You Have Free Time as a Drifter Pilot)
     - letters between Drifters and their families
     - essentially a wargame book for the combat, using actual pictures of miniatures, kinda like the Osprey Press books
+    - a military report on the use of Drift technology in combat, ultimately deciding it's too unstable and dangerous for general use
 
 ---
 
