@@ -76,6 +76,13 @@ Bond system that allows pairs of Drifters to get better at working together, but
 
 Make the entire book basically styled as an email to the Drifters meant to explain the concepts of Drone Drifters, sent by a random that is an expert in Drift technology, which is an esoteric and unusual technology for the time period.
 
+- could be a mix of a bunch of different things, kind of epistolary.
+    - code block for character and drone creation (addStarbyString('Servant Leader'))
+    - code block for advancement (addHull(Drone drone, int credits)
+    - a WikiHow article, maybe for downtime actions (8 Things to Do When You Have Free Time as a Drifter Pilot)
+    - letters between Drifters and their families
+    - essentially a wargame book for the combat, using actual pictures of miniatures, kinda like the Osprey Press books
+
 ---
 
 Drone Divers - eldrich sea submarines
