@@ -88,6 +88,8 @@ Make the entire book basically styled as an email to the Drifters meant to expla
     - DSM5 for the Scars
     - a script for a stage play or film
 
+I could embed a sort of meta-narrative into the book as well, connecting to the surrielty of Drifting. Like, something/someone trying to contact the reader through the book here and there.
+
 ---
 
 Drone Divers - eldrich sea submarines
