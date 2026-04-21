@@ -86,6 +86,7 @@ Make the entire book basically styled as an email to the Drifters meant to expla
     - superlatives, "most likely to"
     - Hall of Heroes (the lists of Stars and the previous pilots who had them)
     - DSM5 for the Scars
+    - a script for a stage play or film
 
 ---
 
