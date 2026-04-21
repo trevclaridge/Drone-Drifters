@@ -83,6 +83,9 @@ Make the entire book basically styled as an email to the Drifters meant to expla
     - letters between Drifters and their families
     - essentially a wargame book for the combat, using actual pictures of miniatures, kinda like the Osprey Press books
     - a military report on the use of Drift technology in combat, ultimately deciding it's too unstable and dangerous for general use
+    - superlatives, "most likely to"
+    - Hall of Heroes (the lists of Stars and the previous pilots who had them)
+    - DSM5 for the Scars
 
 ---
 
