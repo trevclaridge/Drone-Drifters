@@ -80,6 +80,7 @@ Make the entire book basically styled as an email to the Drifters meant to expla
     - code block for character and drone creation (addStarbyString('Servant Leader'))
     - code block for advancement (addHull(Drone drone, int credits)
     - a WikiHow article, maybe for downtime actions (8 Things to Do When You Have Free Time as a Drifter Pilot)
+        - or maybe a brochure with pictures for the Dream of Ana meant to show off it's many amenities, likes it's gym, sauna/relaxation suite, library, ship bay, etc
     - letters between Drifters and their families
     - essentially a wargame book for the combat, using actual pictures of miniatures, kinda like the Osprey Press books
     - a military report on the use of Drift technology in combat, ultimately deciding it's too unstable and dangerous for general use
