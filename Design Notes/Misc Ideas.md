@@ -88,7 +88,9 @@ Make the entire book basically styled as an email to the Drifters meant to expla
     - Hall of Heroes (the lists of Stars and the previous pilots who had them)
     - DSM5 for the Scars
     - a script for a stage play or film
-    - travel brochure for brochures
+    - travel brochure for planets
+    - advertisements
+    - newspaper clippings/news articles
 
 I could embed a sort of meta-narrative into the book as well, connecting to the surrielty of Drifting. Like, something/someone trying to contact the reader through the book here and there.
 
