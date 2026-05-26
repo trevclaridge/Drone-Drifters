@@ -108,6 +108,12 @@ When two Drifters share space in a drone (i.e. pilot the same drone for the span
   - Maybe a roll table of what kind of memory gets shared.
   - If either pilot asks the other about one of the memories that was shared, gain a bonus? Credit? Cohesion?
 
+---
+
+Maybe every weapon system should have a choice between dealing a fixed amount of damage and rolling for damage. You have to take the result of the roll if you choose to roll, which could be lower than the fixed amount.
+  - The fixed amount should probably just be the average of the available dice in the die roll, so the gamble is a little stronger. But then you have to have rules for upgrading the damage of a weapon system with Credits.
+
+
 
 
 
