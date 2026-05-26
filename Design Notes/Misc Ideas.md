@@ -104,7 +104,9 @@ Drone Delvers - fantasy heartbreaker, dungeon crawling
 
 --- 
 
-When two Drifters share space in a drone (i.e. pilot the same drone for the span of at least a full turn, without bouncing or drifting out) they share a memory to the Drifter. Maybe a roll table of what kind of memory gets shared.
+When two Drifters share space in a drone (i.e. pilot the same drone for the span of at least a full turn, without bouncing or drifting out) they share a memory to the Drifter. 
+  - Maybe a roll table of what kind of memory gets shared.
+  - If either pilot asks the other about one of the memories that was shared, gain a bonus? Credit? Cohesion?
 
 
 
