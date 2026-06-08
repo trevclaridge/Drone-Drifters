@@ -19,6 +19,7 @@ README.md
 "Examples/Example Drifters/Drifter 3.md"
 "Examples/Example Drifters/Drifter 4.md"
 "GM Focused/Campaign Ideas.md"
+"GM Focused/Enemy Turns.md"
 "GM Focused/Bestiary/Hive/Hive General Abilities.md"
 "GM Focused/Bestiary/Hive/Hive Fighter.md"
 "GM Focused/Bestiary/Hive/Hive Cruiser.md"
