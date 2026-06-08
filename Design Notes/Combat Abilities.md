@@ -54,3 +54,4 @@
 - reduce a targets Shields/Armor
 - zero gravity Star
 - cloaking ability that removed a combatant from the map; can be revealed with a Survey action
+- "for ever natural 5 used as part of the activation"
