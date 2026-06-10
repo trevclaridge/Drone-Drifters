@@ -77,7 +77,7 @@ Bond system that allows pairs of Drifters to get better at working together, but
 Make the entire book basically styled as an email to the Drifters meant to explain the concepts of Drone Drifters, sent by a random that is an expert in Drift technology, which is an esoteric and unusual technology for the time period.
 
 - could be a mix of a bunch of different things, kind of epistolary.
-    - code block for character and drone creation (addStarbyString('Servant Leader'))
+    - code block for character and drone creation (addStarByString('Servant Leader'))
     - code block for advancement (addHull(Drone drone, int credits)
     - a WikiHow article, maybe for downtime actions (8 Things to Do When You Have Free Time as a Drifter Pilot)
         - or maybe a brochure with pictures for the Dream of Ana meant to show off it's many amenities, likes it's gym, sauna/relaxation suite, library, ship bay, etc
@@ -92,7 +92,7 @@ Make the entire book basically styled as an email to the Drifters meant to expla
     - advertisements
     - newspaper clippings/news articles
 
-I could embed a sort of meta-narrative into the book as well, connecting to the surrielty of Drifting. Like, something/someone trying to contact the reader through the book here and there.
+I could embed a sort of meta-narrative into the book as well, connecting to the surreality  of Drifting. Like, something/someone trying to contact the reader through the book here and there.
 
 ---
 
@@ -102,18 +102,42 @@ Drone Drivers - mad max cars in tournaments
 
 Drone Delvers - fantasy heartbreaker, dungeon crawling
 
---- 
+---
 
-When two Drifters share space in a drone (i.e. pilot the same drone for the span of at least a full turn, without bouncing or drifting out) they share a memory to the Drifter. 
+When two Drifters share space in a drone (i.e. pilot the same drone for the span of at least a full turn, without bouncing or drifting out) they share a memory to the Drifter.
+
   - Maybe a roll table of what kind of memory gets shared.
   - If either pilot asks the other about one of the memories that was shared, gain a bonus? Credit? Cohesion?
 
 ---
 
 Maybe every weapon system should have a choice between dealing a fixed amount of damage and rolling for damage. You have to take the result of the roll if you choose to roll, which could be lower than the fixed amount.
+
   - The fixed amount should probably just be the average of the available dice in the die roll, so the gamble is a little stronger. But then you have to have rules for upgrading the damage of a weapon system with Credits.
 
+---
 
+Could have a beat system similar to Slugblaster, where players gain a specific type of resource (Stress?) during battles that they then spend on scenes along a pre-determined arc during downtime.
 
-
-
+  - The Commander
+	- Tell a commanding officer that their plan isn't going to work, but follow orders anyway.
+	- Watch a plan fail; take over command.
+	- Give an order to someone who is not expecting you to give orders.
+	- Have a plan fail; question your own command.
+	- Rally everyone together.
+  - The Black Sheep
+	- The one who needs to learn to be a part of team.
+  - The Tinker
+	- The scientist, the scholar, the mechanic.
+  - The Infected
+	- The one slowly becoming... *something else*.
+  - The Nepobaby
+	- The offspring of an important Drifter.
+  - The Unknown
+	- The cylon, the outsider, the non-human.
+  - The Carer
+	- The heart, the healer.
+  - The Worst
+	- Has the worst performance, but trains enough to eventually prove themself.
+  - The Best
+	- Learns to kill their narcissism.
