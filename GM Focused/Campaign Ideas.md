@@ -185,3 +185,9 @@ One of the main spacefaring species in the galaxy knew beforehand that an attack
 ---
 
 The Church of the Dark. A cult intent on bringing on the end of the universe. They believe the universe is some simulation or calculation in the process of being made; when the universe ends, the calculation will be complete and the true life begins.
+
+---
+
+A following has spring up around a series of messages discovered in a lonely part of space. They are videos of a single member of an unknown alien race speaking to camera. The messages have been partially (fully) translated: they are video logs seemingly sent to another member of the alien race, presumably an astronaut. They act a
+almost as journal entries, updating the astronaut on events and happenings back on their home planet and in the astronaut's family. They are sad. Inspired by the video messages from Interstellar.
+
