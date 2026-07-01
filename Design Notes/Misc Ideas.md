@@ -141,3 +141,12 @@ Could have a beat system similar to Slugblaster, where players gain a specific t
 	- Has the worst performance, but trains enough to eventually prove themself.
   - The Best
 	- Learns to kill their narcissism.
+
+Things that can be used as costs and rewards:
+
+- Scars/Stars
+- Cohesion
+- Stress/Stamina
+- Credits
+- Achievements?
+
