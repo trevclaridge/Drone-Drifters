@@ -155,3 +155,7 @@ Things that can be used as costs and rewards:
 Call downtime actions "Rec Time"; because Drifting is so taxing on the psyche, Drifters are mandated a period of rest and recuperation after a mission to realign themselves. This is only if time allows, of course--a Drifter is still expected to get back right back on the horse if the fleet is suddenly attacked.
 
 After the mandated Rec Time is over, Drifters have pretty much free reign to do whatever they want until they are summoned to their next mission. Drifters spend this time in all sorts of ways; some get jobs, engage in hobbies. For an unfortunate majority however, this period is nothing but sitting in anxiety, both dreading and wishing for that call to action. As such, this (generally short) window has come to be called "The Wait".
+
+---
+
+When a Drifter maxes out on Stress and Scars, they don't die. Rather they become something of a vegetable, the mental strain finally breaking their minds beyond repair. As such, each Drifter must create a formalized plan of how they would like to be handled after such an occasion. Most choose to be spaced, sent out an airlock without a suit, but there have been other requests throughout history. Some of the more exotic become legend, like the Drifter that still lives, hooked up to a bevy of machines performing their biological duties--all in hope that one day that spark of life might return to long on the mend brain.
