@@ -150,3 +150,8 @@ Things that can be used as costs and rewards:
 - Credits
 - Achievements?
 
+---
+
+Call downtime actions "Rec Time"; because Drifting is so taxing on the psyche, Drifters are mandated a period of rest and recuperation after a mission to realign themselves. This is only if time allows, of course--a Drifter is still expected to get back right back on the horse if the fleet is suddenly attacked.
+
+After the mandated Rec Time is over, Drifters have pretty much free reign to do whatever they want until they are summoned to their next mission. Drifters spend this time in all sorts of ways; some get jobs, engage in hobbies. For an unfortunate majority however, this period is nothing but sitting in anxiety, both dreading and wishing for that call to action. As such, this (generally short) window has come to be called "The Wait".
