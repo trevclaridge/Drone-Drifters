@@ -158,4 +158,8 @@ After the mandated Rec Time is over, Drifters have pretty much free reign to do 
 
 ---
 
-When a Drifter maxes out on Stress and Scars, they don't die. Rather they become something of a vegetable, the mental strain finally breaking their minds beyond repair. As such, each Drifter must create a formalized plan of how they would like to be handled after such an occasion. Most choose to be spaced, sent out an airlock without a suit, but there have been other requests throughout history. Some of the more exotic become legend, like the Drifter that still lives, hooked up to a bevy of machines performing their biological duties--all in hope that one day that spark of life might return to long on the mend brain.
+When a Drifter maxes out on Stress and Scars, they don't die. Rather they become something of a vegetable, the mental strain finally breaking their minds beyond repair. As such, each Drifter must create a formalized plan of how they would like to be handled after such an occasion. Most choose to be spaced, sent out an airlock without a suit, but there have been other requests throughout history. Some of the more exotic become legend, like the Drifter that still lives, hooked up to a bevy of machines performing their biological duties--all in hope that one day that spark of life might return to a brain long on the mend.
+
+---
+
+The events of the campaign could be controlled via a prompt deck, similar to solo games or world building games. Some cards, or beats, or any other mechanics could "trigger" combats. You could also modify the deck, like certain cards trigger missions/combats, and you could add or remove these cards according to events. This could allow keeping the careers, where certain cards require Tests, where you roll your against a Career, with results for success/failure or full success/partial success/failure.
