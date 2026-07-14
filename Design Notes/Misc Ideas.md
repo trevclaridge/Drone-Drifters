@@ -149,6 +149,8 @@ Alternatively, the playbooks would be more archetypical, rather than plot-line f
     - The one that can always be counted on to make the upright, moral choice.
 - The Screw Up
     - The one that just can't seem to stop disappointing themselves.
+- The Scum
+    - The one who knows the back alleys of space.
 
 Things that can be used as costs and rewards:
 
