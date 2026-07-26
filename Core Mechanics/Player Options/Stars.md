@@ -81,3 +81,7 @@
 ---
 
 **Supportive Parent**: You very proud of your hard-working chilluns. You can award 2 Cohesion for good roleplay each session instead of 1.
+
+---
+
+**Furiously Fast**: Wanna race? You always roll a 6 on Readiness rolls.
