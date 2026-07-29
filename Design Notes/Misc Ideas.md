@@ -142,7 +142,6 @@ Could have a beat system similar to Slugblaster, where players gain a specific t
   - The Best
 	- Learns to kill their narcissism.
 
-
 Alternatively, the playbooks would be more archetypical, rather than plot-line focused:
 
 - The Beacon
@@ -173,3 +172,7 @@ When a Drifter maxes out on Stress and Scars, they don't die. Rather they become
 ---
 
 The events of the campaign could be controlled via a prompt deck, similar to solo games or world building games. Some cards, or beats, or any other mechanics could "trigger" combats. You could also modify the deck, like certain cards trigger missions/combats, and you could add or remove these cards according to events. This could allow keeping the careers, where certain cards require Tests, where you roll your against a Career, with results for success/failure or full success/partial success/failure.
+
+---
+
+Restrict the number of beats allowed during Rec Time to a specific number.
