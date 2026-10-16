@@ -176,3 +176,8 @@ The events of the campaign could be controlled via a prompt deck, similar to sol
 ---
 
 Restrict the number of beats allowed during Rec Time to a specific number.
+
+---
+
+Give a drone a bonus to damage or something if it moves it's full movement before attacking, to encourage more flying around and activity.
+
