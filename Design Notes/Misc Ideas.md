@@ -181,3 +181,7 @@ Restrict the number of beats allowed during Rec Time to a specific number.
 
 Give a drone a bonus to damage or something if it moves it's full movement before attacking, to encourage more flying around and activity.
 
+---
+
+The Hunger. A being with a black hole at its heart; it must consume or experience great pain. Possibly even a player handbook.
+
